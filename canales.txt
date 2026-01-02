@@ -20,7 +20,6 @@ M+ Cine Español,ES: M+ CINE ESPAÑOL,https://raw.githubusercontent.com/davidmum
 M+ PopUp,ES: M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
 TCM HD,ES: TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
 BBC Series,ES: BBC Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png
-BBC Earth,ES: BBC Earth,
 BBC Top Gear,ES: BBC Top Gear,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png
 BBC Lifestyle,ES: BBC Lifestyle,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png
 Paramount Network,ES: Paramount Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png
@@ -346,47 +345,7 @@ La 7 Burgos,La 7 Burgos,https://raw.githubusercontent.com/davidmuma/picons_doble
 La 7 León,La 7 León,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Le%C3%B3n.png
 La 7 Palencia,La 7 Palencia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Palencia.png
 La 7 Salamanca,La 7 Salamanca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Salamanca.png
-La 7 Segovia,La 7 Segovia,
-La 7 Soria,La 7 Soria,
-La 7 Valladolid,La 7 Valladolid,
-La 7 Zamora,La 7 Zamora,
-La 8 Ávila,La 8 Ávila,
-La 8 Bierzo,La 8 Bierzo,
-La 8 Burgos,La 8 Burgos,
-La 8 León,La 8 León,
-La 8 Palencia,La 8 Palencia,
-La 8 Salamanca,La 8 Salamanca,
-La 8 Segovia,La 8 Segovia,
-La 8 Soria,La 8 Soria,
-La 8 Valladolid,La 8 Valladolid,
-La 8 Zamora,La 8 Zamora,
-Canal 10 Empordà,Canal 10 Empordà,
-EmpordaTV,EmpordaTV,
-TAC12,TAC12,
-TV Costa Brava,TV Costa Brava,
-Canal Terrassa,Canal Terrassa,
-Televisió de l'Hospitalet,Televisió de l'Hospitalet,
-TV Berguedà,TV Berguedà,
-Canal Taronja Anoia,Canal Taronja Anoia,
-Canal Reus TV,Canal Reus TV,
-Canal21 Ebre,Canal21 Ebre,
-Canal Terres de l'Ebre,Canal Terres de l'Ebre,
-TV Girona,TV Girona,
-ETV,ETV,
-tvmataró,tvmataró,
-TV Sabadell - Vallès,TV Sabadell - Vallès,
-Penedès TV,Penedès TV,
-Televisió de Badalona,Televisió de Badalona,
-El 9 TV,El 9 TV,
-Cugat Media,Cugat Media,
-Olot TV,Olot TV,
-Canal Taronja Central,Canal Taronja Central,
-VOTV,VOTV,
-Canal Blau,Canal Blau,
-Lleida TV,Lleida TV,
-Banyoles TV,Banyoles TV,
-Vallès Visió,Vallès Visió,
-DARK,DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
+DARK,ES: DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
 AMC Break,ES: AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
 Odisea,ES: Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
 AMC HD,ES: AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
@@ -462,51 +421,11 @@ Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 8madrid TV,8madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
-1+1 International,1+1 International,
-100% Navidad (Rakuten TV),100% Navidad (Rakuten TV),
-Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),
-Crimen (Rakuten TV),Crimen (Rakuten TV),
-Thrillers (Rakuten TV),Thrillers (Rakuten TV),
-MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV),
-Cine Español (Rakuten TV),Cine Español (Rakuten TV),
-Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV),
-Dramas (Rakuten TV),Dramas (Rakuten TV),
-Comedias (Rakuten TV),Comedias (Rakuten TV),
-Acción (Rakuten TV),Acción (Rakuten TV),
-Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),
-Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),
-FIFA+,FIFA+,
-DSPORTS,DSPORTS,
-DSPORTS 2,DSPORTS 2,
-DSPORTS+,DSPORTS+,
-DSPORTS Fight,DSPORTS Fight,
-beIN SPORTS en español,beIN SPORTS en español,
-beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,
-CNN en Español,CNN en Español,
-Concert Channel,Concert Channel,
-Star TVE HD,Star TVE,
-Discovery Turbo,Discovery Turbo,
-FOX SPORTS,FOX SPORTS,
-FOX SPORTS 2,FOX SPORTS 2,
-FOX SPORTS 3,FOX SPORTS 3,
-ESPN,ESPN,
-ESPN 2,ESPN 2,
-ESPN 3,ESPN 3,
-ESPN 4,ESPN 4,
-ESPN Deportes,ES: ESPN Deportes,
-ESPN International,ESPN International,
-TyC Sports,TyC Sports,
-TUDN (Estados Unidos),TUDN (Estados Unidos),
-TUDN (México),TUDN (México),
-Sky Sports 16,Sky Sports 16,
-Atrescine,Atrescine,
-Vivid TV,Vivid TV,
-MTV Classic,MTV Classic,
 Imás TV,Imás TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png
 Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Distrito TV,Distrito TV,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO_DISTRITO_TV.png/598px-LOGO_DISTRITO_TV.png
 ATV Andorra Televisión,ATV Andorra Televisión,https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png
-Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,ES: Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
 Alacantí TV,Alacantí TV,https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg
 Onda Cádiz TV,Onda Cádiz TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png
 TVR Rioja,TVR Rioja,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png
