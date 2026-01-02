@@ -1,2 +1,28 @@
 La 1 HD,ES: La 1,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
 La 2,ES: La 2
+Antena 3 HD, ES: ANTENA 3
+Cuatro HD, ES: Cuatro
+Telecinco HD, ES: Telecinco
+La Sexta HD, ES: La Sexta
+M+ Estrenos HD, ES: M+ Estrenos
+M+ Hits HD, ES: M+ Hits
+M+ Originales HD,ES: M+ Originales
+M+ Navidad,ES: M+ LA RESISTENCIA
+M+ Documentales HD,ES: M+ Documentales
+M+ BBC Earth,ES: M+ BBC Earth
+M+ Clásicos HD,ES: M+ CLÁSICOS
+M+ Acción HD,ES: M+ ACCIÓN
+M+ Comedia HD,ES: M+ Comedia
+M+ Drama HD,ES: M+ Drama
+M+ Indie HD,ES: M+ Indie 
+M+ Cine Español,ES: M+ CINE ESPAÑOL
+M+ PopUp,ES: M+ PopUp
+M+ PopUp 2,ES: M+ PopUp 2
+Paramount Network, ES: Paramount Network
+Be Mad,ES: Be Mad
+STAR Channel HD,ES: STAR Channel
+AXN HD,ES: AXN
+Warner TV HD,ES: Warner TV
+Comedy Central HD,ES:Comedy Central
+Calle 13 HD,ES: Calle 13
+Cosmo HD,ES: Cosmo
