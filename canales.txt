@@ -1,9 +1,9 @@
 La 1 HD,ES: La 1,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
 La 2,ES: La 2
 Antena 3 HD, ES: ANTENA 3
-Cuatro HD, ES: Cuatro
-Telecinco HD, ES: Telecinco
-La Sexta HD, ES: La Sexta
+Cuatro HD, CUATRO
+Telecinco HD, TELECINCO
+La Sexta HD, La Sexta
 M+ Estrenos HD, ES: M+ Estrenos
 M+ Hits HD, ES: M+ Hits
 M+ Originales HD,ES: M+ Originales
