@@ -32,7 +32,7 @@ Calle 13 HD,ES: Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobl
 Cosmo HD,ES: Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
 SyFy HD,ES: SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
 Energy,ES: Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png
-Factoría de Ficción,ES: Factoría de Ficción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
+Factoría de Ficción,ES: FACTORIA DE FICCIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,ES: Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
 Caza y Pesca HD,ES: Caza y Pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png
 Iberalia TV,Iberalia 100% PESCA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png
@@ -50,7 +50,7 @@ Nickelodeon HD,ES: Nickelodeon,https://raw.githubusercontent.com/davidmuma/picon
 Dreamworks HD,ES: Dreamworks,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
 Boing,ES: Boing,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png
 Clan,ES: Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
-MTV España,ES: MTV España,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png
+MTV España,ES: MTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png
 MTV 00s,ES: MTV 00s,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2000s.png
 Mezzo,ES: Mezzo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png
 Mezzo Live HD,ES: Mezzo Live,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png
