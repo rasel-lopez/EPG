@@ -5,14 +5,14 @@ Antena 3 HD,ES: ANTENA 3,https://raw.githubusercontent.com/davidmuma/picons_dobl
 Cuatro HD,ES: CUATRO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
 Telecinco HD,ES: TELECINCO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
 La Sexta HD,ES: La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
-M+ Estrenos HD,ES:M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
+M+ Estrenos HD,ES: M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,ES: M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,ES: M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Navidad,LA RESISTENCIA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
+M+ Navidad,ES: LA RESISTENCIA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
 M+ Documentales HD,ES: M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
 M+ BBC Earth,ES: M+ BBC Earth,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png
-M+ Clásicos HD,ES: M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
-M+ Acción HD,ES: M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
+M+ Clásicos HD,ES: M+ CLÁSICOS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
+M+ Acción HD,ES: M+ ACCIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
 M+ Comedia HD,ES: M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
 M+ Drama HD,ES: M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
 M+ Indie HD,ES: M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
@@ -22,7 +22,7 @@ TCM HD,ES: TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/
 BBC Series,ES: BBC Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png
 BBC Top Gear,ES: BBC Top Gear,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png
 BBC Lifestyle,ES: BBC Lifestyle,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png
-Paramount Network,ES: Paramount Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png
+Paramount Network,ES: Paramount CHANNEL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png
 Be Mad,ES: Be Mad,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png
 STAR Channel HD,ES: STAR Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png
 AXN HD,ES: AXN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
