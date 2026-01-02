@@ -1,20 +1,20 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-La 1 HD,ES: LA%201,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
-La 2,ES: LA%202,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
+La 1 HD,ES: LA 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
+La 2,ES: LA 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
 Antena 3 HD,ES: ANTENA 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png
 Cuatro HD,ES: CUATRO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
 Telecinco HD,ES: TELECINCO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
 La Sexta HD,ES: La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 M+ Estrenos HD,ES:M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
-M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
+M+ Hits HD,ES: M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,ES: M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Navidad,M+ Navidad,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
+M+ Navidad,LA RESISTENCIA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
 M+ Documentales HD,ES: M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ BBC Earth,M+ BBC Earth,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png
-M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
-M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
-M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
-M+ Drama HD,M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
-M+ Indie HD,M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
+M+ BBC Earth,ES: M+ BBC Earth,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png
+M+ Clásicos HD,ES: M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
+M+ Acción HD,ES: M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
+M+ Comedia HD,ES: M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
+M+ Drama HD,ES: M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
+M+ Indie HD,ES: M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
 M+ Cine Español,ES: M+ CINE ESPAÑOL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
-M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
+M+ PopUp,ES: M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
