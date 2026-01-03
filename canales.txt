@@ -325,4 +325,4 @@ Iberalia caza,ES: Iberalia 100% caza,https://raw.githubusercontent.com/davidmuma
 Betis TV,ES: Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
 BuenViaje,ES: M+ Buen Viaje,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
 Cazavisión,ES: CAZAVISIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
-
+LaLiga TV BAR HD,ES: (FHD) M+ LaLiga TV BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
