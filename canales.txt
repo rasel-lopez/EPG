@@ -324,4 +324,5 @@ Iberalia pesca,ES: Iberalia 100% pesca,https://raw.githubusercontent.com/davidmu
 Iberalia caza,ES: Iberalia 100% caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
 Betis TV,ES: Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
 BuenViaje,ES: M+ Buen Viaje,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
+Cazavisión,ES: CAZAVISIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
 
