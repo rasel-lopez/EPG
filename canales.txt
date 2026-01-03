@@ -316,4 +316,12 @@ DAZN Baloncesto,ES: ACB EVENTO 01,https://raw.githubusercontent.com/davidmuma/pi
 DAZN Baloncesto 2,ES: ACB EVENTO 02,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,ES: ACB EVENTO 03,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
-Onetoro,ES: Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,ES:(LINEA 1)Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,ES:(LINEA 2)Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+clan,ES: Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
+Torolé TV,ES: TorolE TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
+Iberalia pesca,ES: Iberalia 100% pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
+Iberalia caza,ES: Iberalia 100% caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
+Betis TV,ES: Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
+BuenViaje,ES: M+ Buen Viaje,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
+
