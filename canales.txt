@@ -33,7 +33,7 @@ Calle 13 HD,ES: Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobl
 Cosmo HD,ES: Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
 SyFy HD,ES: SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
 Energy,ES: Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png
-Factoría de Ficción,ES: FACTORIA DE FICCIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
+Factoría de Ficción,ES: FACTORÍA DE FICCIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,ES: Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
 Caza y Pesca HD,ES: Caza y Pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png
 Iberalia TV,es: Iberalia tv,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png
@@ -69,15 +69,15 @@ Telesur HD,Telesur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mas
 Canal Sur Andalucía,ES: Canal Sur Andalucía,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png
 TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
 Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
-Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
+Aragón TV Internacional,ES: ARAGÓN TV INT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
 Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
 Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
-À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
+À Punt,ES: Á PUNT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
 Navarra TV 2,Navarra TV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
 TPA Asturias,TPA Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA%20Asturias.png
-CMM TV,ES: CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
+CMM TV,ES: CASTILLA LA MANCHA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
 La 7 CyL,La 7 CyL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png
 ETB1,ES: ETB 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png
 ETB2,ES: ETB 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png
@@ -86,7 +86,7 @@ TVG2,ES: TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
 Telemadrid,ES: Telemadrid int,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
 La Otra,ES: La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png
-TV3,ES: TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
+TV3,ES: TV3 CAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
 La 7 Murcia,ES: La 7 Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
 Canal Sur HD,ES: Canal Sur ANDALUCÍA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png
 Andalucía TV,Andalucía TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png
@@ -125,10 +125,10 @@ Betevé,ES: Betevé,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 Movistar Plus+ HD,ES: Movistar Plus+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png
 Primera Federación,ES: M+ COPA DEL REY,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
 M+ Vamos HD,ES: M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
-M+ LaLiga HD,ES: (HD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-M+ LaLiga HD,ES: (HD REPUESTO) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-M+ LaLiga HD,ES: (FHD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-M+ LaLiga HD,ES: (FHD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES:(HD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES:(HD REPUESTO)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 DAZN LaLiga HD,ES: (FHD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 DAZN LaLiga HD,ES: (HD REPUESTO)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 DAZN LaLiga HD,ES: (HD REPUESTO2)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
