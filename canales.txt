@@ -257,7 +257,7 @@ Playboy TV,Playboy TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 Dark Rojo,Dark Rojo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dark%20Rojo.png
 AMC Anime,AMC Anime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Anime.png
 AMC+ Connect,AMC+ Connect,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%2B%20Connect.png
-Squirrel TV,Squirrel TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
+Squirrel TV,es: diney channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
 Escapa TV,Escapa TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png
 Popular TV Región de Murcia,Popular TV Región de Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Popular%20TV%20Regi%C3%B3n%20de%20Murcia.png
 La 7 Rioja,La 7 Rioja,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Rioja.png
@@ -299,12 +299,6 @@ Inquietos atresplayer,Inquietos atresplayer,https://raw.githubusercontent.com/da
 Flooxer,Flooxer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png
 Kidz,Kidz,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png
 ATRESplayer PREMIUM,ATRESplayer PREMIUM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png
-La 7 Ávila,La 7 Ávila,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20%C3%81vila.png
-La 7 Bierzo,La 7 Bierzo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Bierzo.png
-La 7 Burgos,La 7 Burgos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Burgos.png
-La 7 León,La 7 León,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Le%C3%B3n.png
-La 7 Palencia,La 7 Palencia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Palencia.png
-La 7 Salamanca,La 7 Salamanca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Salamanca.png
 DARK,ES: DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
 AMC Break,ES: AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
 Odisea,ES: Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
