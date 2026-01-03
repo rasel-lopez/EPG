@@ -92,7 +92,7 @@ Andalucía TV,Andalucía TV,https://raw.githubusercontent.com/davidmuma/picons_d
 La Ocho Mediterráneo,La Ocho Mediterráneo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Ocho%20Mediterr%C3%A1neo.png
 IB3 TV Illes Balears,ES: IB3 TV Illes Balears,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png
 TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
-HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
+HBO Max Avances,E: MAX PPV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
 SkyShowtime,ES: SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
 AXN Movies HD,ES: AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
 TRECE,TRECE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png
@@ -124,11 +124,14 @@ Betevé,ES: Betevé,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 Movistar Plus+ HD,ES: Movistar Plus+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png
 Primera Federación,ES: M+ COPA DEL REY,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
 M+ Vamos HD,ES: M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
-M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-DAZN LaLiga HD,ES:(FHD)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD REPUESTO)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD REPUESTO2)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+M+ LaLiga HD,ES: (HD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES: (HD REPUESTO) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES: (FHD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+M+ LaLiga HD,ES: (FHD) M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+DAZN LaLiga HD,ES: (FHD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD REPUESTO)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD REPUESTO2)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 LaLiga TV Hypermotion HD,ES:LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
 M+ LaLiga 2 HD,ES: M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
 DAZN LaLiga 2 HD,ES: DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
