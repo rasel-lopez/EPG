@@ -6,7 +6,8 @@ Cuatro HD,ES: CUATRO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 Telecinco HD,ES: TELECINCO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
 La Sexta HD,ES: La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 M+ Estrenos HD,ES: M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
-M+ Hits HD,ES: M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
+M+ Estrenos HD,ES: M+ cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
+M+ Hits HD,ES: M+ series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,ES: M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
 M+ Navidad,ES: LA RESISTENCIA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
 M+ Documentales HD,ES: M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
@@ -35,7 +36,7 @@ Energy,ES: Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 Factoría de Ficción,ES: FACTORIA DE FICCIÓN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,ES: Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
 Caza y Pesca HD,ES: Caza y Pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png
-Iberalia TV,Iberalia 100% PESCA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png
+Iberalia TV,es: Iberalia tv,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png
 National Geographic HD,ES: National Geographic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png
 Nat Geo Wild HD,ES: Nat Geo Wild,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png
 BBC History,ES: BBC History,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png
@@ -83,7 +84,7 @@ ETB2,ES: ETB 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/
 TVG,ES: TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
 TVG2,ES: TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png
 Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
-Telemadrid,ES: Telemadrid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
+Telemadrid,ES: Telemadrid int,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
 La Otra,ES: La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png
 TV3,ES: TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
 La 7 Murcia,ES: La 7 Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
@@ -192,7 +193,7 @@ M+ Liga de Campeones HDR,M+ Liga de Campeones HDR,https://raw.githubusercontent.
 M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HDR.png
 Vamos BAR,Vamos BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vamos%20BAR.png
 Vamos BAR 2,Vamos BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vamos%20BAR%202.png
-LaLiga TV BAR HD,LaLiga TV BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
+LaLiga TV BAR HD,es: (fhd)LaLiga TV BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
 LaLiga TV BAR 2,LaLiga TV BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%202.png
 LaLiga TV BAR 3,LaLiga TV BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png
 Rally.TV,Rally.TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png
@@ -311,8 +312,8 @@ AMC HD,ES: AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/
 AMC Crime,ES: AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
 Historia,ES: Historia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png
 XTRM,ES: XTRM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
-Canal Hollywood HD,ES: Canal Hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
-Sundance TV,ES: Sundance TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
+Canal Hollywood HD,ES: hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
+Sundance TV,ES: Sundance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
 VinTV,ES: VinTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png
 Somos,ES: Somos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
 Canal Cocina,ES: Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
