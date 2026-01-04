@@ -72,7 +72,7 @@ Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/da
 Aragón TV Internacional,ES: ARAGÓN TV INT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
 Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
 Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
-À Punt,ES: Á PUNT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
+À Punt,ES: À PUNT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
 Navarra TV 2,Navarra TV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
@@ -130,9 +130,9 @@ M+ LaLiga HD,ES:(HD REPUESTO)M+ LaLiga,https://raw.githubusercontent.com/davidmu
 M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 DAZN LaLiga HD,ES: (FHD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES: (HD REPUESTO)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES: (HD REPUESTO2)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES: (HD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES:(HD REPUESTO)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES:(HD REPUESTO2)DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES:(HD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 LaLiga TV Hypermotion HD,ES:LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
 M+ LaLiga 2 HD,ES: M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
 DAZN LaLiga 2 HD,ES: DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
@@ -147,7 +147,7 @@ M+ Deportes 3,ES: M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/pico
 M+ Ellas Vamos HD,ES: M+ Ellas V,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png
 M+ Golf HD,ES: M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
 M+ Golf 2 HD,ES: M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
-DAZN F1 HD,DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,CH11,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
 DAZN 1 HD,ES: (HD) DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 1 HD,ES: (FHD) DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 2 HD,ES: DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
@@ -196,11 +196,10 @@ Vamos BAR 2,Vamos BAR 2,https://raw.githubusercontent.com/davidmuma/picons_doble
 LaLiga TV BAR HD,es: (fhd)LaLiga TV BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
 LaLiga TV BAR 2,LaLiga TV BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%202.png
 LaLiga TV BAR 3,LaLiga TV BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png
-Rally.TV,Rally.TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png
+Rally.TV,ES: Rally TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png
 DAZN F1 BAR,DAZN F1 BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png
 Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
 GolStadium,GolStadium,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png
-Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 Iberalia pesca,Iberalia pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
 Iberalia caza,Iberalia caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
 Global Telenovelas,Global Telenovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png
