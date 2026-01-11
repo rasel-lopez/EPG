@@ -1,155 +1,299 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
-Canal.Azteca.Uno.mx,Canal Azteca Uno,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
-Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx,Canal 2 de México (Canal Las Estrellas - XEW),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.5.de.México.(XHGC).mx,Canal 5 de México (XHGC),https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png
-Canal.Multimedios.Plus.mx,Canal Multimedios Plus,https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png
-Canal.9.de.México.(XEQ-TDT).mx,Canal 9 de México (XEQ-TDT),https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png
-Canal.El.Heraldo.TV.(México).mx,Canal El Heraldo TV (México),https://imagenes.gatotv.com/logos/canales/oscuros/heraldo_tv-mediano.png
-Canal.11.de.México.mx,Canal 11 de México,https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png
-Canal.14.de.México.mx,Canal 14 de México,https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico-mediano.png
-Canal.TVUNAM.mx,Canal TVUNAM,https://imagenes.gatotv.com/logos/canales/oscuros/tvunam-mediano.png
-Canal.22.de.México.mx,Canal 22 de México,https://imagenes.gatotv.com/logos/canales/oscuros/22_de_mexico-mediano.png
-Canal.Excelsior.TV.mx,Canal Excelsior TV,https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png
-Canal.Foro.TV.mx,Canal Foro TV,https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png
-Canal.ADN.40.mx,Canal ADN 40,https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png
-Canal.a+.mx,Canal a+,https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png
-Canal.Azteca.Uno.-1.Hora.mx,Canal Azteca Uno -1 Hora,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
-Canal.Azteca.Uno.-2.Horas.mx,Canal Azteca Uno -2 Horas,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
-Canal.de.las.Estrellas.-2.Horas.-.México.(XEW).mx,Canal de las Estrellas -2 Horas - México (XEW),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.Clic.mx,Canal Clic,https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png
-Canal.Mexiquense.TV.mx,Canal Mexiquense TV,https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png
-Canal.Telefórmula.mx,Canal Telefórmula,https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png
-Canal.Efekto.TV.(Efekto.Noticias).mx,Canal Efekto TV (Efekto Noticias),https://imagenes.gatotv.com/logos/canales/oscuros/efekto_tv-mediano.png
-Canal.Vibra.TV.mx,Canal Vibra TV,https://imagenes.gatotv.com/logos/canales/oscuros/vibra_tv-mediano.png
-Canal.Aprende.mx,Canal Aprende,https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png
-Canal.Star.Channel.(México).mx,Canal Star Channel (México),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.Sony.(México).mx,Canal Sony (México),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.Warner.TV.(México).mx,Canal Warner TV (México),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
-Canal.Universal.TV.(México).mx,Canal Universal TV (México),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.FX.(México).mx,Canal FX (México),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.A&amp;E.(México).mx,Canal A&amp;E (México),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.AXN.(México).mx,Canal AXN (México),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.¡HOLA!.TV.mx,Canal ¡HOLA! TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
-Canal.Más.Chic.Latinoamérica.mx,Canal Más Chic Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
-Canal.Meganoticias.MX.mx,Canal Meganoticias MX,https://imagenes.gatotv.com/logos/canales/oscuros/meganoticias_mx-mediano.png
-Canal.TV.Azteca.Corazón.mx,Canal TV Azteca Corazón,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png
-Canal.E!.Entertainment.Television.(México).mx,Canal E! Entertainment Television (México),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.USA.Network.(México).mx,Canal USA Network (México),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.Unicable.(México).mx,Canal Unicable (México),https://imagenes.gatotv.com/logos/canales/oscuros/unicable-mediano.png
-Canal.Investigation.Discovery.(México).mx,Canal Investigation Discovery (México),https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Canal.TNT.Series.(México).mx,Canal TNT Series (México),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
-Canal.Elgourmet.mx,Canal Elgourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
-Canal.Distrito.Comedia.mx,Canal Distrito Comedia,https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png
-Canal.TNT.Novelas.(México).mx,Canal TNT Novelas (México),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TLNovelas.(México).mx,Canal TLNovelas (México),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
-Canal.TV.Azteca.Mundo.mx,Canal TV Azteca Mundo,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png
-Canal.Telemundo.(México).mx,Canal Telemundo (México),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.Baby.TV.(Latinoamérica).mx,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
-Canal.Discovery.Kids.(México).mx,Canal Discovery Kids (México),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Disney.Junior.(México).mx,Canal Disney Junior (México),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
-Canal.BabyFirst.TV.mx,Canal BabyFirst TV,https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png
-Canal.Nick.Jr..(México).mx,Canal Nick Jr. (México),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.Disney.Channel.(México).mx,Canal Disney Channel (México),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.Nickelodeon.(México).mx,Canal Nickelodeon (México),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.TeenNick.mx,Canal TeenNick,https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png
-Canal.Cartoon.Network.(México).mx,Canal Cartoon Network (México),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Cartoonito.(México).mx,Canal Cartoonito (México),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.BitMe.mx,Canal BitMe,https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png
-Canal.Tooncast.mx,Canal Tooncast,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
-Canal.Discovery.Theater.(Latinoamérica).mx,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
-Canal.History.(México).mx,Canal History (México),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.Discovery.World.Latinoamérica.mx,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
-Canal.Discovery.Turbo.(Latinoamérica).mx,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
-Canal.History.2.(México).mx,Canal History 2 (México),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Discovery.Channel.(México).mx,Canal Discovery Channel (México),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.Animal.Planet.(México).mx,Canal Animal Planet (México),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.Discovery.Home.&amp;.Health.(México).mx,Canal Discovery Home &amp; Health (México),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.National.Geographic.(México).mx,Canal National Geographic (México),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.Lifetime.(México).mx,Canal Lifetime (México),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.Discovery.Science.(Latinoamérica).mx,Canal Discovery Science (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
-Canal.TLC.(México).mx,Canal TLC (México),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.WOBI.mx,Canal WOBI,https://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png
-Canal.EWTN.en.Español.mx,Canal EWTN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
-Canal.María.Visión.mx,Canal María Visión,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
-Canal.Enlace.(TBN).mx,Canal Enlace (TBN),https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
-Canal.ESNE.TV.mx,Canal ESNE TV,https://imagenes.gatotv.com/logos/canales/oscuros/esne_tv-mediano.png
-Canal.HBO.(México).mx,Canal HBO (México),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
-Canal.HBO.2.Latinoamérica.mx,Canal HBO 2 Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
-Canal.HBO.Signature.Latinoamérica.mx,Canal HBO Signature Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
-Canal.HBO.Family.Latinoamérica.mx,Canal HBO Family Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
-Canal.HBO.Plus.mx,Canal HBO Plus,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
-Canal.HBO.Mundi.mx,Canal HBO Mundi,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
-Canal.HBO.Pop.mx,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
-Canal.Cinema.mx,Canal Cinema,https://imagenes.gatotv.com/logos/canales/oscuros/cinema-mediano.png
-Canal.Paramount.Channel.(México).mx,Canal Paramount Channel (México),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Cinecanal.(México).mx,Canal Cinecanal (México),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.Golden.Premier.mx,Canal Golden Premier,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
-Canal.Golden.Premier.2.mx,Canal Golden Premier 2,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
-Canal.TNT.(México).mx,Canal TNT (México),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.Golden.Plus.mx,Canal Golden Plus,https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png
-Canal.AMC.(México).mx,Canal AMC (México),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.Space.(México).mx,Canal Space (México),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.Cinemax.(México).mx,Canal Cinemax (México),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Golden.(México).mx,Canal Golden (México),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.Golden.Edge.mx,Canal Golden Edge,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
-Canal.De.Película.mx,Canal De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
-Canal.Studio.Universal.(México).mx,Canal Studio Universal (México),https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
-Canal.Europa.Europa.mx,Canal Europa Europa,https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png
-Canal.Film.&amp;.Arts.mx,Canal Film &amp; Arts,https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png
-Canal.TCM.(México).mx,Canal TCM (México),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.Golf.Channel.(Latinoamérica).mx,Canal Golf Channel (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
-Canal.TUDN.(México).mx,Canal TUDN (México),https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png
-Canal.Fox.Sports.(México).mx,Canal Fox Sports (México),https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
-Canal.Fox.Sports.2.(México).mx,Canal Fox Sports 2 (México),https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png
-Canal.PX.Sports.mx,Canal PX Sports,https://imagenes.gatotv.com/logos/canales/oscuros/px_sports-mediano.png
-Canal.Outdoor.Channel.HD.mx,Canal Outdoor Channel HD,https://imagenes.gatotv.com/logos/canales/oscuros/outdoor_channel_hd-mediano.png
-Canal.Adrenalina.Sports.Network.mx,Canal Adrenalina Sports Network,https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png
-Canal.Fox.Sports.3.(México).mx,Canal Fox Sports 3 (México),https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png
-Canal.NFL.Network.mx,Canal NFL Network,https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png
-Canal.TVC.Deportes.mx,Canal TVC Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png
-Canal.AYM.Sports.mx,Canal AYM Sports,https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png
-Canal.Milenio.TV.mx,Canal Milenio TV,https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png
-Canal.CNN.Internacional.mx,Canal CNN Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
-Canal.Fox.News.mx,Canal Fox News,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
-Canal.CNN.en.Español.mx,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Canal.Bloomberg.mx,Canal Bloomberg,https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png
-Canal.BBC.World.News.mx,Canal BBC World News,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
-Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).mx,Canal NTN24 (Nuestra Tele Noticias 24 Horas),https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png
-Canal.HLN.mx,Canal HLN,https://imagenes.gatotv.com/logos/canales/oscuros/hln-mediano.png
-Canal.TVE.Internacional.(Televisión.Española).mx,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
-Canal.Antena.3.mx,Canal Antena 3,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
-Canal.Galicia.TV.mx,Canal Galicia TV,https://imagenes.gatotv.com/logos/canales/oscuros/galicia_tv-mediano.png
-Canal.DW.(Latinoamérica).mx,Canal DW (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.Deutsche.Welle.mx,Canal Deutsche Welle,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.Atreseries.(Internacional).mx,Canal Atreseries (Internacional),https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
-Canal.TV5MONDE.mx,Canal TV5MONDE,https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png
-Canal.RAI.International.mx,Canal RAI International,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
-Canal.TV.Chile.mx,Canal TV Chile,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
-Canal.Telefe.Internacional.mx,Canal Telefe Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/telefe_internacional-mediano.png
-Canal.Caracol.Internacional.mx,Canal Caracol Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
-Canal.Telehit.Música.Plus.mx,Canal Telehit Música Plus,https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png
-Canal.VH1.HD.(Latinoamérica).mx,Canal VH1 HD (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/vh1_hd-mediano.png
-Canal.MTV.Hits.mx,Canal MTV Hits,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png
-Canal.MTV.80s.mx,Canal MTV 80s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png
-Canal.NickMusic.mx,Canal NickMusic,https://imagenes.gatotv.com/logos/canales/oscuros/nick_music-mediano.png
-Canal.Telehit.Música.mx,Canal Telehit Música,
-Canal.Bandamax.mx,Canal Bandamax,https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png
-Canal.Telehit.mx,Canal Telehit,
-Canal.MTV.00s.mx,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
-Canal.HTV.mx,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
-Canal.Exa.TV.mx,Canal Exa TV,https://imagenes.gatotv.com/logos/canales/oscuros/exa_tv-mediano.png
-Canal.22.Internacional.mx,Canal 22 Internacional,
-Canal.5.(XHPNH).mx,Canal 5 (XHPNH),https://cdn.tvpassport.com/image/station/240x135/v2/s116152_h15_aa.png
-Azteca.(XHOR).mx,Azteca (XHOR),https://cdn.tvpassport.com/image/station/240x135/v2/s116154_h15_ac.png
-Televisa.(XHAB).mx,Televisa (XHAB),https://cdn.tvpassport.com/image/station/240x135/v2/s26130_h15_aa.png
-Televisa.(XERV).mx,Televisa (XERV),https://cdn.tvpassport.com/image/station/240x135/v2/s26130_h15_aa.png
-Canal.Pánico.mx,Canal Pánico,https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png
-Canal.Cinema.Platino.mx,Canal Cinema Platino,https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png
-Sky.Sports.24.mx,Sky Sports 24,https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png
-Sky.Sports.16.mx,Sky Sports 16,https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png
-Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://cdn.tvpassport.com/image/station/240x135/v2/s116154_h15_ac.png
-ESPN.MX.mx,ESPN MX,https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png
-FOX.SPORTS.mx,FOX SPORTS,https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg
-FOX.SPORTS.2.mx,FOX SPORTS 2,https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg
-FOX.SPORTS.3.mx,FOX SPORTS 3,https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg
-FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://www.reportv.com.ar/buscador/img/Logos/12505582.jpg
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
+13.TV.es,13 TV,https://programacion-tv.elpais.com/imagenes/canales/689.jpg
+3/24.es,3/24,https://programacion-tv.elpais.com/imagenes/canales/449.jpg
+324.es,324,
+4K.Travel.TV.es,4K Travel TV,
+7.Región.de.Murcia.es,7 Región de Murcia,https://programacion-tv.elpais.com/imagenes/canales/551.jpg
+7TV.Andalucía.es,7TV Andalucía,
+8.Madrid.es,8 Madrid,https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg
+A3Cine.(Atrescine).es,A3Cine (Atrescine),https://d60d34ithxz8n.cloudfront.net/us-logos/618ad2e02b0b5285138786a4c3f76f17.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoDMP1SINQM1%2FnUl%2Fk9L%2FGZVNDUrm%2Brd0JAk5jhy7QMW9P4ljMidZbjrB%2FltqQl1i4Y
+AM.es,AM,
+AMC.Break.es,AMC Break,https://programacion-tv.elpais.com/imagenes/canales/492.jpg
+AMC.Crime.es,AMC Crime,https://programacion-tv.elpais.com/imagenes/canales/691.jpg
+AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
+ATV.es,ATV,
+AXN.Movies.es,AXN Movies,https://programacion-tv.elpais.com/imagenes/canales/512.jpg
+AXN.es,AXN,https://programacion-tv.elpais.com/imagenes/canales/63.jpg
+Acontra+.es,Acontra+,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Al.Jazeera.English.es,Al Jazeera English,https://programacion-tv.elpais.com/imagenes/canales/539.jpg
+Amc.Selekt.es,Amc Selekt,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/08/10001160.png
+Andalucía.TV.es,Andalucía TV,https://programacion-tv.elpais.com/imagenes/canales/32.jpg
+Antena.3.es,Antena 3,https://programacion-tv.elpais.com/imagenes/canales/2.jpg
+Aragón.TV.es,Aragón TV,https://programacion-tv.elpais.com/imagenes/canales/522.jpg
+Atreseries.es,Atreseries,https://programacion-tv.elpais.com/imagenes/canales/883.jpg
+BBC.Earth.es,BBC Earth,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbcear.png
+BBC.Food.es,BBC Food,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png
+BBC.History.es,BBC History,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbhis.png
+BBC.Lifestyle.es,BBC Lifestyle,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbclif.png
+BBC.News.es,BBC News,https://programacion-tv.elpais.com/imagenes/canales/208.jpg
+BBC.Series.es,BBC Series,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbdra.png
+BBC.Top.Gear.es,BBC Top Gear,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbgea.png
+BOM.Cine.es,BOM Cine,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10001003.png
+Baby.TV.es,Baby TV,https://programacion-tv.elpais.com/imagenes/canales/573.jpg
+Be.Mad.es,Be Mad,https://programacion-tv.elpais.com/imagenes/canales/890.jpg
+BeIN.Sports.es,BeIN Sports,https://programacion-tv.elpais.com/imagenes/canales/840.jpg
+Betevé.es,Betevé,
+Bloomberg.es,Bloomberg,https://programacion-tv.elpais.com/imagenes/canales/196.jpg
+Boing.es,Boing,https://programacion-tv.elpais.com/imagenes/canales/665.jpg
+Bon.Dia.TV.es,Bon Dia TV,
+Buen.viaje.es,Buen viaje,https://programacion-tv.elpais.com/imagenes/canales/171.jpg
+C.Hollywood.es,C Hollywood,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HOLLYWOOD_176x122.png
+CGTN.Documentary.HD.es,CGTN Documentary HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cgtndo.png
+CGTN.Español.es,CGTN Español,https://programacion-tv.elpais.com/imagenes/canales/619.jpg
+CMM.TV.es,CMM TV,
+CNBC.Europe.es,CNBC Europe,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/4c/10000204.png
+CNN.Internacional.es,CNN Internacional,https://programacion-tv.elpais.com/imagenes/canales/203.jpg
+Calle.13.es,Calle 13,https://programacion-tv.elpais.com/imagenes/canales/64.jpg
+Canal.24.h.es,Canal 24 h,https://programacion-tv.elpais.com/imagenes/canales/8.jpg
+Canal.33.es,Canal 33,
+Canal.4.Tenerife.es,Canal 4 Tenerife,
+Canal.7.Televalencia.es,Canal 7 Televalencia,https://cdn.sincroguia.tv/uploads/images/7/-/t/x7-televalencia.jpg.pagespeed.ic.tgLrIa49KG.jpg
+Canal.Cocina.es,Canal Cocina,https://programacion-tv.elpais.com/imagenes/canales/183.jpg
+Canal.Extremadura.Sat.es,Canal Extremadura Sat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/extrem.png
+Canal.Extremadura.TV.es,Canal Extremadura TV,https://programacion-tv.elpais.com/imagenes/canales/582.jpg
+Canal.FlixOlé.1.es,Canal FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix1.png
+Canal.FlixOlé.2.es,Canal FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix2.png
+Canal.Fútbol.Replay.es,Canal Fútbol Replay,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/futrep.png
+Canal.Parlamento.es,Canal Parlamento,https://programacion-tv.elpais.com/imagenes/canales/604.jpg
+Canal.Sur.2.es,Canal Sur 2,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9f/10000031.png
+Canal.Sur.Andalucía.es,Canal Sur Andalucía,https://programacion-tv.elpais.com/imagenes/canales/31.jpg
+Canal.Sur.es,Canal Sur,https://programacion-tv.elpais.com/imagenes/canales/30.jpg
+Caracol.TV.es,Caracol TV,https://programacion-tv.elpais.com/imagenes/canales/566.jpg
+Castilla.-.La.Mancha.TV.es,Castilla - La Mancha TV,https://programacion-tv.elpais.com/imagenes/canales/296.jpg
+Caza.y.Pesca.es,Caza y Pesca,https://programacion-tv.elpais.com/imagenes/canales/386.jpg
+Cazavisión.es,Cazavisión,https://programacion-tv.elpais.com/imagenes/canales/656.jpg
+Cine.Feel.Good.es,Cine Feel Good,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/FEEL_GOOD_CIRCULAR_176X122.png
+Cine.Friki.es,Cine Friki,
+Cine.Western.es,Cine Western,
+Cines.Verdi.TV.es,Cines Verdi TV,https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png
+Clan.es,Clan,https://programacion-tv.elpais.com/imagenes/canales/505.jpg
+Club.MTV.International.es,Club MTV International,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/55/10000469.png
+Comedy.Central.es,Comedy Central,https://programacion-tv.elpais.com/imagenes/canales/493.jpg
+Cosmopolitan.es,Cosmopolitan,https://programacion-tv.elpais.com/imagenes/canales/186.jpg
+Cuatro.es,Cuatro,https://programacion-tv.elpais.com/imagenes/canales/496.jpg
+Cubavisión.Internacional.es,Cubavisión Internacional,https://programacion-tv.elpais.com/imagenes/canales/567.jpg
+CyLTV.es,CyLTV,https://programacion-tv.elpais.com/imagenes/canales/324.jpg
+DAZN.1.es,DAZN 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/m1sd.png
+DAZN.2.es,DAZN 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/m2sd.png
+DAZN.3.es,DAZN 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dazn3.png
+DAZN.4.es,DAZN 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dazn4.png
+DAZN.F1.es,DAZN F1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mvf1.png
+DAZN.LALIGA.2.es,DAZN LALIGA 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/daznl2.png
+DAZN.LALIGA.es,DAZN LALIGA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/daznli.png
+DMAX.es,DMAX,https://programacion-tv.elpais.com/imagenes/canales/475.jpg
+Dark.es,Dark,https://programacion-tv.elpais.com/imagenes/canales/920.jpg
+Decasa.es,Decasa,https://programacion-tv.elpais.com/imagenes/canales/572.jpg
+Deutsche.Welle.es,Deutsche Welle,https://programacion-tv.elpais.com/imagenes/canales/206.jpg
+Discovery.Channel.es,Discovery Channel,https://programacion-tv.elpais.com/imagenes/canales/146.jpg
+Disney.Channel.+1.es,Disney Channel +1,https://programacion-tv.elpais.com/imagenes/canales/291.jpg
+Disney.Channel.es,Disney Channel,https://programacion-tv.elpais.com/imagenes/canales/175.jpg
+Disney.Junior.es,Disney Junior,https://programacion-tv.elpais.com/imagenes/canales/292.jpg
+Distrito.TV.es,Distrito TV,https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png
+Divinity.es,Divinity,https://programacion-tv.elpais.com/imagenes/canales/697.jpg
+Djazz.es,Djazz,
+Dkiss.es,Dkiss,https://programacion-tv.elpais.com/imagenes/canales/892.jpg
+Dreamworks.es,Dreamworks,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dwsp.png
+EITB.BASQUE.es,EITB BASQUE,
+ETB.1.HD.es,ETB 1 HD,https://programacion-tv.elpais.com/imagenes/canales/33.jpg
+ETB.2.es,ETB 2,https://programacion-tv.elpais.com/imagenes/canales/34.jpg
+ETB.3.es,ETB 3,https://programacion-tv.elpais.com/imagenes/canales/795.jpg
+ETB.4.es,ETB 4,https://programacion-tv.elpais.com/imagenes/canales/35.jpg
+ETB1.es,ETB1,
+ETB2.es,ETB2,
+ETB3.es,ETB3,
+ETB4.es,ETB4,
+EWTN.es,EWTN,https://programacion-tv.elpais.com/imagenes/canales/190.jpg
+El.Confidencial.es,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
+El.Garage.TV.es,El Garage TV,https://programacion-tv.elpais.com/imagenes/canales/786.jpg
+El.País.es,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
+El.Toro.TV.es,El Toro TV,https://programacion-tv.elpais.com/imagenes/canales/516.jpg
+El.Trece.Internacional.es,El Trece Internacional,https://programacion-tv.elpais.com/imagenes/canales/790.jpg
+Elche.7.TV.es,Elche 7 TV,https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png
+En.familia.es,En familia,https://programacion-tv.elpais.com/imagenes/canales/698.jpg
+Energy.es,Energy,https://programacion-tv.elpais.com/imagenes/canales/709.jpg
+Esport.3.es,Esport 3,
+Esport3.es,Esport3,https://programacion-tv.elpais.com/imagenes/canales/672.jpg
+Euronews.es,Euronews,https://programacion-tv.elpais.com/imagenes/canales/139.jpg
+Eurosport.2.es,Eurosport 2,https://programacion-tv.elpais.com/imagenes/canales/491.jpg
+Eurosport.es,Eurosport,https://programacion-tv.elpais.com/imagenes/canales/154.jpg
+Extreme.Sports.es,Extreme Sports,https://programacion-tv.elpais.com/imagenes/canales/550.jpg
+FDF.Telecinco.es,FDF Telecinco,https://programacion-tv.elpais.com/imagenes/canales/506.jpg
+FailArmy.es,FailArmy,
+Flamenco.Auditorio.es,Flamenco Auditorio,https://media.tvup.cloud/canales/color_lg_65a6abfa553a99a65f47dd78.png
+France.24.es,France 24,https://programacion-tv.elpais.com/imagenes/canales/608.jpg
+GOL.PLAY.es,GOL PLAY,https://cdn.sincroguia.tv/uploads/images/1/b/q/xgol-play.jpg.pagespeed.ic._Ubw0eZ5q-.jpg
+Galicia.TV.es,Galicia TV,https://programacion-tv.elpais.com/imagenes/canales/37.jpg
+Gol.TV.es,Gol TV,https://programacion-tv.elpais.com/imagenes/canales/897.jpg
+HBO.Max.Avances.es,HBO Max Avances,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/maxava.png
+Heritage+.es,Heritage+,
+Historia.es,Historia,https://programacion-tv.elpais.com/imagenes/canales/148.jpg
+Historia.y.Vida.es,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3.png
+Hits.por.M+.es,Hits por M+,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6a/10009450.png
+Hollywood.+1.es,Hollywood +1,https://programacion-tv.elpais.com/imagenes/canales/671.jpg
+Hollywood.es,Hollywood,https://programacion-tv.elpais.com/imagenes/canales/61.jpg
+Iberalia.es,Iberalia,https://programacion-tv.elpais.com/imagenes/canales/654.jpg
+Imas.TV.es,Imas TV,https://imastv.es/wp-content/uploads/2024/05/cropped-mosca-pequena.png
+LALIGA.Inside.es,LALIGA Inside,
+LALIGA.TV.BAR.es,LALIGA TV BAR,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png
+LALIGA.TV.HYPERMOTION.2.es,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs2.png
+LALIGA.TV.HYPERMOTION.3.es,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs3.png
+LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs.png
+La.1.Catalunya.es,La 1 Catalunya,https://programacion-tv.elpais.com/imagenes/canales/18.jpg
+La.1.HD.es,La 1 HD,https://programacion-tv.elpais.com/imagenes/canales/690.jpg
+La.1.es,La 1,https://programacion-tv.elpais.com/imagenes/canales/3.jpg
+La.2.es,La 2,https://programacion-tv.elpais.com/imagenes/canales/4.jpg
+La.7.Rioja.es,La 7 Rioja,https://cdn.sincroguia.tv/uploads/images/r/5/e/xla-7.jpg.pagespeed.ic.3RarWccZfj.jpg
+La.8.es,La 8,https://programacion-tv.elpais.com/imagenes/canales/643.jpg
+La.Ocho.mediterráneo.es,La Ocho mediterráneo,https://cdn.sincroguia.tv/uploads/channels/xlogo-la-ocho-mediterraneo-832.jpg.pagespeed.ic.Mz4BvhvyY7.jpg
+La.Otra.es,La Otra,https://programacion-tv.elpais.com/imagenes/canales/39.jpg
+Levante.TV.es,Levante TV,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/64/10000996.png
+Libertad.Digital.TV.es,Libertad Digital TV,https://programacion-tv.elpais.com/imagenes/canales/603.jpg
+Love.The.Planet.es,Love The Planet,
+Love.Wine.es,Love Wine,
+M+.Acción.es,M+ Acción,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpacci.png
+M+.Cine.Español.es,M+ Cine Español,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dcesp.png
+M+.Clásicos.es,M+ Clásicos,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mclas.png
+M+.Comedia.es,M+ Comedia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpcome.png
+M+.Copa.del.Rey.es,M+ Copa del Rey,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mcopa.png
+M+.Deportes.2.es,M+ Deportes 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/arthur.png
+M+.Deportes.3.es,M+ Deportes 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop2.png
+M+.Deportes.4.es,M+ Deportes 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop3.png
+M+.Deportes.5.es,M+ Deportes 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop11.png
+M+.Deportes.6.es,M+ Deportes 6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/multi8.png
+M+.Deportes.7.es,M+ Deportes 7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/multi6.png
+M+.Deportes.es,M+ Deportes,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpdep.png
+M+.Documentales.es,M+ Documentales,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mdoc.png
+M+.Drama.es,M+ Drama,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpcole.png
+M+.Ellas.V.es,M+ Ellas V,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mellav.png
+M+.Estrenos.es,M+ Estrenos,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mv1.png
+M+.Golf.2.es,M+ Golf 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/golf2.png
+M+.Golf.es,M+ Golf,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/golf%2B.png
+M+.Hits.es,M+ Hits,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mhits.png
+M+.Indie.es,M+ Indie,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mindi.png
+M+.LALIGA.TV.2.es,M+ LALIGA TV 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig1.png
+M+.LALIGA.TV.3.es,M+ LALIGA TV 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig2.png
+M+.LALIGA.TV.4.es,M+ LALIGA TV 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig3.png
+M+.LALIGA.TV.UHD.es,M+ LALIGA TV UHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mliguh.png
+M+.LALIGA.TV.es,M+ LALIGA TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mliga.png
+M+.Liga.de.Campeones..3.es,M+ Liga de Campeones  3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap2.png
+M+.Liga.de.Campeones..4.es,M+ Liga de Campeones  4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap3.png
+M+.Liga.de.Campeones.10.es,M+ Liga de Campeones 10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap9.png
+M+.Liga.de.Campeones.11.es,M+ Liga de Campeones 11,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap10.png
+M+.Liga.de.Campeones.12.es,M+ Liga de Campeones 12,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap11.png
+M+.Liga.de.Campeones.13.es,M+ Liga de Campeones 13,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap12.png
+M+.Liga.de.Campeones.2.es,M+ Liga de Campeones 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap1.png
+M+.Liga.de.Campeones.5.es,M+ Liga de Campeones 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap4.png
+M+.Liga.de.Campeones.6.es,M+ Liga de Campeones 6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap5.png
+M+.Liga.de.Campeones.7.es,M+ Liga de Campeones 7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap6.png
+M+.Liga.de.Campeones.8.es,M+ Liga de Campeones 8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap7.png
+M+.Liga.de.Campeones.9.es,M+ Liga de Campeones 9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap8.png
+M+.Liga.de.Campeones.HDR.es,M+ Liga de Campeones HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chhdr.png
+M+.Liga.de.Campeones.es,M+ Liga de Campeones,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chapio.png
+M+.Liga.de.Campeones2.HDR.es,M+ Liga de Campeones2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chhdr2.png
+M+.Los.90.es,M+ Los 90,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ml90.png
+M+.Originales.es,M+ Originales,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/morig.png
+M+.Vamos.es,M+ Vamos,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/vamosd.png
+MTV.80s.es,MTV 80s,https://programacion-tv.elpais.com/imagenes/canales/705.jpg
+MTV.90s.es,MTV 90s,https://programacion-tv.elpais.com/imagenes/canales/160.jpg
+MTV.Dance.es,MTV Dance,https://programacion-tv.elpais.com/imagenes/canales/469.jpg
+MTV.España.es,MTV España,https://programacion-tv.elpais.com/imagenes/canales/159.jpg
+MTV.Hits.es,MTV Hits,https://programacion-tv.elpais.com/imagenes/canales/161.jpg
+MTV.Live.es,MTV Live,https://programacion-tv.elpais.com/imagenes/canales/702.jpg
+MTV.Music.es,MTV Music,https://programacion-tv.elpais.com/imagenes/canales/627.jpg
+MTV00.es,MTV00,https://programacion-tv.elpais.com/imagenes/canales/165.jpg
+Mega.es,Mega,https://programacion-tv.elpais.com/imagenes/canales/841.jpg
+Mezzo.Live.es,Mezzo Live,
+Mezzo.es,Mezzo,https://programacion-tv.elpais.com/imagenes/canales/338.jpg
+Moto.GP.es,Moto GP,https://programacion-tv.elpais.com/imagenes/canales/804.jpg
+Movistar.Acción.es,Movistar Acción,https://programacion-tv.elpais.com/imagenes/canales/847.jpg
+Movistar.Cine.Español.es,Movistar Cine Español,https://programacion-tv.elpais.com/imagenes/canales/385.jpg
+Movistar.Comedia.es,Movistar Comedia,https://programacion-tv.elpais.com/imagenes/canales/848.jpg
+Movistar.Deportes.2.es,Movistar Deportes 2,https://programacion-tv.elpais.com/imagenes/canales/378.jpg
+Movistar.Deportes.es,Movistar Deportes,https://programacion-tv.elpais.com/imagenes/canales/377.jpg
+Movistar.F1.es,Movistar F1,https://programacion-tv.elpais.com/imagenes/canales/798.jpg
+Movistar.Golf.es,Movistar Golf,https://programacion-tv.elpais.com/imagenes/canales/333.jpg
+Movistar.Plus+.es,Movistar Plus+,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1b/10009371.png
+Movistar.Plus.es,Movistar Plus,https://programacion-tv.elpais.com/imagenes/canales/9551.jpg
+Movistar.Series.es,Movistar Series,https://programacion-tv.elpais.com/imagenes/canales/843.jpg
+Musicales.por.M+.\n.es,Musicales por M+ \n,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mmusic.png
+NATV.1.es,NATV 1,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
+NATV.2.es,NATV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
+NOW.70's.es,NOW 70's,
+NOW.80's.es,NOW 80's,
+NOW.Rock.es,NOW Rock,
+National.Geographic.Wild.HD.es,National Geographic Wild HD,https://programacion-tv.elpais.com/imagenes/canales/681.jpg
+National.Geographic.Wild\tGeoWild\t985.es,National Geographic Wild\tGeoWild\t985,https://programacion-tv.elpais.com/imagenes/canales/151.jpg
+National.Geographic.es,National Geographic,
+NatureTime.es,NatureTime,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/NATURE_TIME_176x122.png
+Navarra.Televisión.es,Navarra Televisión,https://programacion-tv.elpais.com/imagenes/canales/771.jpg
+Negocios.TV.es,Negocios TV,
+Neox.es,Neox,https://programacion-tv.elpais.com/imagenes/canales/508.jpg
+Nesting.TV.es,Nesting TV,
+Nick.Junior.es,Nick Junior,https://programacion-tv.elpais.com/imagenes/canales/687.jpg
+Nickelodeon.es,Nickelodeon,https://programacion-tv.elpais.com/imagenes/canales/200.jpg
+Nova.es,Nova,https://programacion-tv.elpais.com/imagenes/canales/509.jpg
+Odisea.es,Odisea,https://programacion-tv.elpais.com/imagenes/canales/135.jpg
+Oficios.perdidos.es,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
+Onda.Algeciras.TV.es,Onda Algeciras TV,https://programacion-tv.elpais.com/imagenes/canales/753.jpg
+Paramount.Network.es,Paramount Network,https://programacion-tv.elpais.com/imagenes/canales/716.jpg
+Planeta.de.Cine.es,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
+Popular.TV.Cantabria.es,Popular TV Cantabria,https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png
+Popular.TV.Murcia.es,Popular TV Murcia,https://programacion-tv.elpais.com/imagenes/canales/754.jpg
+Pro.TV.Internacional.es,Pro TV Internacional,https://programacion-tv.elpais.com/imagenes/canales/570.jpg
+Punt.3.es,Punt 3,https://www.punt3.es/android-icon-192x192.png
+Qello.Concerts.es,Qello Concerts,
+Qwest.TV.es,Qwest TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/QWEST_TV_176x122.png
+RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
+Real.Madrid.TV.es,Real Madrid TV,https://programacion-tv.elpais.com/imagenes/canales/158.jpg
+Record.TV.es,Record TV,https://programacion-tv.elpais.com/imagenes/canales/615.jpg
+SELEKT.es,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122.png
+SOL.Música.es,SOL Música,
+SX3-33.es,SX3-33,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9d/10000541.png
+SX3.es,SX3,
+Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
+SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
+Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
+Squirrel.2.es,Squirrel 2,https://www.teletexto.com/tv/88x64/squirrel-2.png
+Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
+Sundance.Channel.es,Sundance Channel,https://programacion-tv.elpais.com/imagenes/canales/699.jpg
+Super.3.es,Super 3,https://programacion-tv.elpais.com/imagenes/canales/541.jpg
+Syfy.es,Syfy,https://programacion-tv.elpais.com/imagenes/canales/520.jpg
+TCM.+1.es,TCM +1,https://programacion-tv.elpais.com/imagenes/canales/59.jpg
+TCM.es,TCM,
+TPA_7.es,TPA_7,https://programacion-tv.elpais.com/imagenes/canales/521.jpg
+TR3CE.es,TR3CE,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_7b5bfe03e4ac4f998eb4419bf.png
+TRECE.es,TRECE,
+TV.Chile.es,TV Chile,https://programacion-tv.elpais.com/imagenes/canales/416.jpg
+TV.Colombia.es,TV Colombia,https://programacion-tv.elpais.com/imagenes/canales/613.jpg
+TV.Mediterráneo.es,TV Mediterráneo,https://programacion-tv.elpais.com/imagenes/canales/832.jpg
+TV.Melilla.es,TV Melilla,https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3.es
+TV3.CAT.es,TV3 CAT,
+TV3.es,TV3,https://programacion-tv.elpais.com/imagenes/canales/43.jpg
+TV3CAT.es,TV3CAT,https://programacion-tv.elpais.com/imagenes/canales/47.jpg
+TV5.Monde.es,TV5 Monde,https://programacion-tv.elpais.com/imagenes/canales/209.jpg
+TVE.Internacional.Asia.es,TVE Internacional Asia,https://programacion-tv.elpais.com/imagenes/canales/667.jpg
+TVE.Internacional.es,TVE Internacional,https://programacion-tv.elpais.com/imagenes/canales/468.jpg
+TVG.es,TVG,https://programacion-tv.elpais.com/imagenes/canales/36.jpg
+TVG2.es,TVG2,https://programacion-tv.elpais.com/imagenes/canales/779.jpg
+Taroteame.es,Taroteame,https://programacion-tv.elpais.com/imagenes/canales/826.jpg
+Tele.Elx.es,Tele Elx,https://programacion-tv.elpais.com/imagenes/canales/316.jpg
+Telecinco.es,Telecinco,https://programacion-tv.elpais.com/imagenes/canales/1.jpg
+Teledeporte.es,Teledeporte,https://programacion-tv.elpais.com/imagenes/canales/9.jpg
+Telemadrid.es,Telemadrid,https://programacion-tv.elpais.com/imagenes/canales/38.jpg
+TelevisiónCanaria.es,TelevisiónCanaria,https://programacion-tv.elpais.com/imagenes/canales/41.jpg
+Ten.es,Ten,https://programacion-tv.elpais.com/imagenes/canales/889.jpg
+The.Pet.Collective.es,The Pet Collective,
+VE.PLUS.TV.es,VE PLUS TV,https://programacion-tv.elpais.com/imagenes/canales/653.jpg
+Viral.TV.es,Viral TV,https://programacion-tv.elpais.com/imagenes/canales/870.jpg
+Vivir.con.gatos.es,Vivir con gatos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIVIR_CON_GATOS_176x122.png
+Vivir.con.perros.es,Vivir con perros,https://media.tvup.cloud/canales/color_lg_628cf372f712d6001b3a6484.png
+Warner.TV.es,Warner TV,https://programacion-tv.elpais.com/imagenes/canales/577.jpg
+XTRM.es,XTRM,https://programacion-tv.elpais.com/imagenes/canales/68.jpg
+ZTV.es,ZTV,https://programacion-tv.elpais.com/imagenes/canales/629.jpg
+ZUT.TV.es,ZUT TV,
+ZenLIFE.es,ZenLIFE,
+i24.News.es,i24 News,https://programacion-tv.elpais.com/imagenes/canales/792.jpg
+iConcerts.es,iConcerts,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_96ae9ef4c9e06174b3f2322f2.png
+laSexta.es,laSexta,https://programacion-tv.elpais.com/imagenes/canales/510.jpg
+teleSUR.es,teleSUR,https://programacion-tv.elpais.com/imagenes/canales/614.jpg
+À.Punt.es,À Punt,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/apunt.png
