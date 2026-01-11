@@ -242,7 +242,7 @@ DAZN Baloncesto 3,ES: ACB EVENTO 03,https://raw.githubusercontent.com/davidmuma/
 Moto ADV,ES: Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
 Onetoro,ES: (LINEA 1) Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
 Onetoro,ES: (LINEA 2) Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
-clan,ES: Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
+clan,ES: CLAN TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 Torolé TV,ES: TorolE TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 Iberalia pesca,ES: Iberalia 100% pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
 Iberalia caza,ES: Iberalia 100% caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
