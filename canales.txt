@@ -131,33 +131,33 @@ M+ LaLiga HD,CH5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/maste
 M+ LaLiga HD,ES:(HD REPUESTO)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 M+ LaLiga HD,ES:(FHD)M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-DAZN LaLiga HD,ES: (FHD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (FHD) DAZN LALIGA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 DAZN LaLiga HD,CH3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD REPUESTO) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD REPUESTO2) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-DAZN LaLiga HD,ES:(HD) DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD REPUESTO) DAZN LALIGA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD REPUESTO2) DAZN LALIGA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+DAZN LaLiga HD,ES: (HD) DAZN LALIGA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 LaLiga TV Hypermotion HD,ES:LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
 LaLiga TV Hypermotion HD,CH10,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
 M+ LaLiga 2 HD,ES: M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
 DAZN LaLiga 2 HD,ES: DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
 LaLiga TV Hypermotion 2,ES: LaLiga TV Hypermotion 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
-M+ Liga de Campeones HD,ES:(FHD) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
+M+ Liga de Campeones HD,ES: (FHD) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
 M+ Liga de Campeones HD,ES:CH2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
-M+ Liga de Campeones HD,ES:(HD)M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
-M+ Liga de Campeones HD,ES:(FHD REPUESTO)M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
-M+ Liga de Campeones HD,ES:(HD REPUESTO)M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
-M+ Liga de Campeones 2 HD,ES:(FHD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 2 HD,ES:(SD)M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 2 HD,ES:(FHD REPUESTO)M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 2 HD,ES:(HD REPUESTO)M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 2 HD,ES:(FHD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 2 HD,ES:(HD)M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones HD,ES: (HD) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
+M+ Liga de Campeones HD,ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
+M+ Liga de Campeones HD,ES: (HD REPUESTO) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
+M+ Liga de Campeones 2 HD,ES: (FHD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 2 HD,ES: (SD) M+ LIGA DE CAMPEONES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 2 HD,ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 2 HD,ES: (HD REPUESTO) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 2 HD,ES: (FHD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 2 HD,ES: (HD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
 M+ Liga de Campeones 2 HD,CH12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 3 HD,ES:(FHD) M+ Liga de Campeones 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png
-M+ Deportes HD,ES:(FHD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
-M+ Deportes HD,ES:(HD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
+M+ Liga de Campeones 3 HD,ES: (FHD) M+ Liga de Campeones 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png
+M+ Deportes HD,ES: (FHD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
+M+ Deportes HD,ES: (HD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
 M+ Deportes HD,CH8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
-M+ Deportes 2 HD,ES: M+ Deportes 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png
+M+ Deportes 2 HD,ES: M+ DEPORTES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png
 M+ Deportes 3,ES: M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
 M+ Ellas Vamos HD,ES: M+ Ellas V,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png
 M+ Golf HD,ES: M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
