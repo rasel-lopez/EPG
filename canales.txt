@@ -154,7 +154,7 @@ M+ Liga de Campeones 2 HD,ES: (FHD) M+ LIGA DE CAMPEONES 2,https://raw.githubuse
 M+ Liga de Campeones 2 HD,ES: (HD) M+ LIGA DE CAMPEONES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
 M+ Liga de Campeones 2 HD,CH12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
 M+ Liga de Campeones 3 HD,ES: (FHD) M+ Liga de Campeones 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png
-M+ Deportes HD,ES: (FHD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
+M+.Deportes.es,ES: (FHD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
 M+ Deportes HD,ES: (HD) M+ DEPORTES,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
 M+ Deportes HD,CH8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
 M+ Deportes 2 HD,ES: M+ DEPORTES 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png
