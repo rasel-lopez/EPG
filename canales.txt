@@ -162,6 +162,10 @@ M+ Deportes 3,ES: M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/pico
 M+ Ellas Vamos HD,ES: M+ Ellas V,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png
 M+ Golf HD,ES: M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
 M+ Golf 2 HD,ES: M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
+DAZN F1 HD,ES: (HD) DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,ES: (HD REPUESTO) DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,ES: (FHD) DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,ES: (FHD REPUESTO) DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
 DAZN F1 HD,CH11,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
 DAZN F1 HD,CH4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
 DAZN 1 HD,ES: (HD) DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
@@ -197,7 +201,7 @@ DAZN LaLiga 4,ES: DAZN LaLiga 4,https://raw.githubusercontent.com/davidmuma/pico
 DAZN LaLiga 5,ES: DAZN LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png
 M+ Vamos 2,ES: M+ Vamos 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png
 LaLiga TV Hypermotion 3,ES: LaLiga TV Hypermotion 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
-M+ Deportes 4,ES. M+ Deportes 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
+M+ Deportes 4,ES. M+ DEPORTES 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
 M+ Deportes 5,ES: M+ Deportes 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png
 M+ Deportes 6,ES: M+ Deportes 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png
 M+ Deportes 7,ES: M+ Deportes 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png
@@ -240,8 +244,8 @@ DAZN Baloncesto,ES: ACB EVENTO 01,https://raw.githubusercontent.com/davidmuma/pi
 DAZN Baloncesto 2,ES: ACB EVENTO 02,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,ES: ACB EVENTO 03,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 Moto ADV,ES: Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
-Onetoro,ES: (LINEA 1) Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
-Onetoro,ES: (LINEA 2) Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,ES: (LINEA 1) ONETORO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,ES: (LINEA 2) ONETORO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
 clan,ES: CLAN TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 Torolé TV,ES: TorolE TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 Iberalia pesca,ES: Iberalia 100% pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
