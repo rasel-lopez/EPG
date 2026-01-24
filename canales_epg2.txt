@@ -6,6 +6,7 @@
 7.Región.de.Murcia.es,7 Región de Murcia,https://programacion-tv.elpais.com/imagenes/canales/551.jpg
 7TV.Andalucía.es,7TV Andalucía,
 8.Madrid.es,8 Madrid,https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg
+A3CINE.es,A3CINE,
 A3Cine.(Atrescine).es,A3Cine (Atrescine),https://d60d34ithxz8n.cloudfront.net/us-logos/618ad2e02b0b5285138786a4c3f76f17.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoDMP1SINQM1%2FnUl%2Fk9L%2FGZVNDUrm%2Brd0JAk5jhy7QMW9P4ljMidZbjrB%2FltqQl1i4Y
 AM.es,AM,
 AMC.Break.es,AMC Break,https://programacion-tv.elpais.com/imagenes/canales/492.jpg
@@ -18,8 +19,10 @@ Acontra+.es,Acontra+,https://img-prod-api2.mediasetplay.mediaset.it/api/images/b
 Al.Jazeera.English.es,Al Jazeera English,https://programacion-tv.elpais.com/imagenes/canales/539.jpg
 Amc.Selekt.es,Amc Selekt,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/08/10001160.png
 Andalucía.TV.es,Andalucía TV,https://programacion-tv.elpais.com/imagenes/canales/32.jpg
+Antena.3.Internacional.es,Antena 3 Internacional,
 Antena.3.es,Antena 3,https://programacion-tv.elpais.com/imagenes/canales/2.jpg
 Aragón.TV.es,Aragón TV,https://programacion-tv.elpais.com/imagenes/canales/522.jpg
+Atreseries.Internacional.es,Atreseries Internacional,
 Atreseries.es,Atreseries,https://programacion-tv.elpais.com/imagenes/canales/883.jpg
 BBC.Earth.es,BBC Earth,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbcear.png
 BBC.Food.es,BBC Food,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png
@@ -105,7 +108,7 @@ ETB4.es,ETB4,
 EWTN.es,EWTN,https://programacion-tv.elpais.com/imagenes/canales/190.jpg
 El.Confidencial.es,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
 El.Garage.TV.es,El Garage TV,https://programacion-tv.elpais.com/imagenes/canales/786.jpg
-El.País.es,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
+El.País.es,El País,
 El.Toro.TV.es,El Toro TV,https://programacion-tv.elpais.com/imagenes/canales/516.jpg
 El.Trece.Internacional.es,El Trece Internacional,https://programacion-tv.elpais.com/imagenes/canales/790.jpg
 Elche.7.TV.es,Elche 7 TV,https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png
@@ -116,6 +119,7 @@ Esport3.es,Esport3,https://programacion-tv.elpais.com/imagenes/canales/672.jpg
 Euronews.es,Euronews,https://programacion-tv.elpais.com/imagenes/canales/139.jpg
 Eurosport.2.es,Eurosport 2,https://programacion-tv.elpais.com/imagenes/canales/491.jpg
 Eurosport.es,Eurosport,https://programacion-tv.elpais.com/imagenes/canales/154.jpg
+Eventos.4.es,Eventos 4,
 Extreme.Sports.es,Extreme Sports,https://programacion-tv.elpais.com/imagenes/canales/550.jpg
 FDF.Telecinco.es,FDF Telecinco,https://programacion-tv.elpais.com/imagenes/canales/506.jpg
 FailArmy.es,FailArmy,
@@ -296,4 +300,5 @@ i24.News.es,i24 News,https://programacion-tv.elpais.com/imagenes/canales/792.jpg
 iConcerts.es,iConcerts,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_96ae9ef4c9e06174b3f2322f2.png
 laSexta.es,laSexta,https://programacion-tv.elpais.com/imagenes/canales/510.jpg
 teleSUR.es,teleSUR,https://programacion-tv.elpais.com/imagenes/canales/614.jpg
+¡HOLA!.TV.es,¡HOLA! TV,
 À.Punt.es,À Punt,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/apunt.png
