@@ -256,7 +256,7 @@ SX3.es,SX3,
 Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
 Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
-Squirrel.2.es,Squirrel 2,https://www.teletexto.com/tv/88x64/squirrel-2.png
+Squirrel.2.es,Squirrel 2,
 Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
 Sundance.Channel.es,Sundance Channel,https://programacion-tv.elpais.com/imagenes/canales/699.jpg
 Super.3.es,Super 3,https://programacion-tv.elpais.com/imagenes/canales/541.jpg
