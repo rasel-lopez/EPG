@@ -118,6 +118,7 @@ Esport3.es,Esport3,https://programacion-tv.elpais.com/imagenes/canales/672.jpg
 Euronews.es,Euronews,https://programacion-tv.elpais.com/imagenes/canales/139.jpg
 Eurosport.2.es,Eurosport 2,https://programacion-tv.elpais.com/imagenes/canales/491.jpg
 Eurosport.es,Eurosport,https://programacion-tv.elpais.com/imagenes/canales/154.jpg
+Eventos.3.es,Eventos 3,
 Eventos.4.es,Eventos 4,
 Extreme.Sports.es,Extreme Sports,https://programacion-tv.elpais.com/imagenes/canales/550.jpg
 FDF.Telecinco.es,FDF Telecinco,https://programacion-tv.elpais.com/imagenes/canales/506.jpg
@@ -255,6 +256,8 @@ SX3-33.es,SX3-33,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/
 SX3.es,SX3,
 Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
+Solidaria.TV.Argentina.es,Solidaria TV Argentina,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
+Solidaria.TV.España.es,Solidaria TV España,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
 Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
 Squirrel.2.es,Squirrel 2,
 Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
