@@ -23,13 +23,13 @@ Antena.3.es,Antena 3,https://programacion-tv.elpais.com/imagenes/canales/2.jpg
 Aragón.TV.es,Aragón TV,https://programacion-tv.elpais.com/imagenes/canales/522.jpg
 Atreseries.Internacional.es,Atreseries Internacional,
 Atreseries.es,Atreseries,https://programacion-tv.elpais.com/imagenes/canales/883.jpg
-BBC.Earth.es,BBC Earth,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbcear.png
-BBC.Food.es,BBC Food,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png
-BBC.History.es,BBC History,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbhis.png
-BBC.Lifestyle.es,BBC Lifestyle,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbclif.png
+BBC.Earth.es,BBC Earth,
+BBC.Food.es,BBC Food,
+BBC.History.es,BBC History,
+BBC.Lifestyle.es,BBC Lifestyle,
 BBC.News.es,BBC News,https://programacion-tv.elpais.com/imagenes/canales/208.jpg
-BBC.Series.es,BBC Series,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbdra.png
-BBC.Top.Gear.es,BBC Top Gear,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbgea.png
+BBC.Series.es,BBC Series,
+BBC.Top.Gear.es,BBC Top Gear,
 BOM.Cine.es,BOM Cine,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10001003.png
 Baby.TV.es,Baby TV,https://programacion-tv.elpais.com/imagenes/canales/573.jpg
 Be.Mad.es,Be Mad,https://programacion-tv.elpais.com/imagenes/canales/890.jpg
@@ -53,8 +53,8 @@ Canal.7.Televalencia.es,Canal 7 Televalencia,https://cdn.sincroguia.tv/uploads/i
 Canal.Cocina.es,Canal Cocina,https://programacion-tv.elpais.com/imagenes/canales/183.jpg
 Canal.Extremadura.Sat.es,Canal Extremadura Sat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/extrem.png
 Canal.Extremadura.TV.es,Canal Extremadura TV,https://programacion-tv.elpais.com/imagenes/canales/582.jpg
-Canal.FlixOlé.1.es,Canal FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix1.png
-Canal.FlixOlé.2.es,Canal FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix2.png
+Canal.FlixOlé.1.es,Canal FlixOlé 1,
+Canal.FlixOlé.2.es,Canal FlixOlé 2,
 Canal.Fútbol.Replay.es,Canal Fútbol Replay,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/futrep.png
 Canal.Parlamento.es,Canal Parlamento,https://programacion-tv.elpais.com/imagenes/canales/604.jpg
 Canal.Sur.2.es,Canal Sur 2,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9f/10000031.png
@@ -90,11 +90,11 @@ Discovery.Channel.es,Discovery Channel,https://programacion-tv.elpais.com/imagen
 Disney.Channel.+1.es,Disney Channel +1,https://programacion-tv.elpais.com/imagenes/canales/291.jpg
 Disney.Channel.es,Disney Channel,https://programacion-tv.elpais.com/imagenes/canales/175.jpg
 Disney.Junior.es,Disney Junior,https://programacion-tv.elpais.com/imagenes/canales/292.jpg
-Distrito.TV.es,Distrito TV,https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png
+Distrito.TV.es,Distrito TV,
 Divinity.es,Divinity,https://programacion-tv.elpais.com/imagenes/canales/697.jpg
 Djazz.es,Djazz,
 Dkiss.es,Dkiss,https://programacion-tv.elpais.com/imagenes/canales/892.jpg
-Dreamworks.es,Dreamworks,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dwsp.png
+Dreamworks.es,Dreamworks,
 EITB.BASQUE.es,EITB BASQUE,
 ETB.1.HD.es,ETB 1 HD,https://programacion-tv.elpais.com/imagenes/canales/33.jpg
 ETB.2.es,ETB 2,https://programacion-tv.elpais.com/imagenes/canales/34.jpg
@@ -139,9 +139,9 @@ Iberalia.es,Iberalia,https://programacion-tv.elpais.com/imagenes/canales/654.jpg
 Imas.TV.es,Imas TV,https://imastv.es/wp-content/uploads/2024/05/cropped-mosca-pequena.png
 LALIGA.Inside.es,LALIGA Inside,
 LALIGA.TV.BAR.es,LALIGA TV BAR,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png
-LALIGA.TV.HYPERMOTION.2.es,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs2.png
-LALIGA.TV.HYPERMOTION.3.es,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs3.png
-LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs.png
+LALIGA.TV.HYPERMOTION.2.es,LALIGA TV HYPERMOTION 2,
+LALIGA.TV.HYPERMOTION.3.es,LALIGA TV HYPERMOTION 3,
+LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,
 La.1.Catalunya.es,La 1 Catalunya,https://programacion-tv.elpais.com/imagenes/canales/18.jpg
 La.1.HD.es,La 1 HD,https://programacion-tv.elpais.com/imagenes/canales/690.jpg
 La.1.es,La 1,https://programacion-tv.elpais.com/imagenes/canales/3.jpg
@@ -256,8 +256,8 @@ SX3-33.es,SX3-33,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/
 SX3.es,SX3,
 Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
-Solidaria.TV.Argentina.es,Solidaria TV Argentina,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
-Solidaria.TV.España.es,Solidaria TV España,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
+Solidaria.TV.Argentina.es,Solidaria TV Argentina,
+Solidaria.TV.España.es,Solidaria TV España,
 Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
 Squirrel.2.es,Squirrel 2,
 Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
@@ -272,7 +272,7 @@ TRECE.es,TRECE,
 TV.Chile.es,TV Chile,https://programacion-tv.elpais.com/imagenes/canales/416.jpg
 TV.Colombia.es,TV Colombia,https://programacion-tv.elpais.com/imagenes/canales/613.jpg
 TV.Mediterráneo.es,TV Mediterráneo,https://programacion-tv.elpais.com/imagenes/canales/832.jpg
-TV.Melilla.es,TV Melilla,https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3.es
+TV.Melilla.es,TV Melilla,
 TV3.CAT.es,TV3 CAT,
 TV3.es,TV3,https://programacion-tv.elpais.com/imagenes/canales/43.jpg
 TV3CAT.es,TV3CAT,https://programacion-tv.elpais.com/imagenes/canales/47.jpg
