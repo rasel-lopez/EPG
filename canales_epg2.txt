@@ -107,7 +107,7 @@ ETB4.es,ETB4,
 EWTN.es,EWTN,https://programacion-tv.elpais.com/imagenes/canales/190.jpg
 El.Confidencial.es,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
 El.Garage.TV.es,El Garage TV,https://programacion-tv.elpais.com/imagenes/canales/786.jpg
-El.País.es,El País,
+El.País.es,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El.Toro.TV.es,El Toro TV,https://programacion-tv.elpais.com/imagenes/canales/516.jpg
 El.Trece.Internacional.es,El Trece Internacional,https://programacion-tv.elpais.com/imagenes/canales/790.jpg
 Elche.7.TV.es,Elche 7 TV,https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png
