@@ -18,7 +18,7 @@ M+ Comedia HD,ES: M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_
 M+ Drama HD,ES: M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
 M+ Indie HD,ES: M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
 M+ Cine Español,ES: M+ CINE ESPAÑOL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
-M+ PopUp,ES: M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
+M+ Los 2000,ES: M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
 TCM HD,ES: TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
 BBC Series,ES: BBC Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png
 BBC Top Gear,ES: BBC Top Gear,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png
@@ -172,6 +172,7 @@ DAZN 1 HD,ES: (HD) DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dob
 DAZN 1 HD,ES: (FHD) DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 1 HD,CH6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 2 HD,ES: DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
+DAZN MotoGP,ES: DAZN MOTOGP,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png
 Eurosport 1 HD,ES: Eurosport 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
 Eurosport 2,ES: Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
 GOL,ES: GOL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png
@@ -239,7 +240,7 @@ Sundance TV,ES: Sundance,https://raw.githubusercontent.com/davidmuma/picons_dobl
 VinTV,ES: VinTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png
 Somos,ES: Somos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
 Canal Cocina,ES: Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
-Decasa,ES: CANAL Decasa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png
+AMC Living,ES: CANAL Decasa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png
 DAZN Baloncesto,ES: ACB EVENTO 01,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
 DAZN Baloncesto 2,ES: ACB EVENTO 02,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,ES: ACB EVENTO 03,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
