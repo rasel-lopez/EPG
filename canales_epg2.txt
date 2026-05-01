@@ -123,7 +123,7 @@ Eventos.4.es,Eventos 4,
 Extreme.Sports.es,Extreme Sports,https://programacion-tv.elpais.com/imagenes/canales/550.jpg
 FDF.Telecinco.es,FDF Telecinco,https://programacion-tv.elpais.com/imagenes/canales/506.jpg
 FailArmy.es,FailArmy,
-Flamenco.Auditorio.es,Flamenco Auditorio,https://media.tvup.cloud/canales/color_lg_65a6abfa553a99a65f47dd78.png
+Flamenco.Auditorio.es,Flamenco Auditorio,
 France.24.es,France 24,https://programacion-tv.elpais.com/imagenes/canales/608.jpg
 GOL.PLAY.es,GOL PLAY,https://cdn.sincroguia.tv/uploads/images/1/b/q/xgol-play.jpg.pagespeed.ic._Ubw0eZ5q-.jpg
 Galicia.TV.es,Galicia TV,https://programacion-tv.elpais.com/imagenes/canales/37.jpg
