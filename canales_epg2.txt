@@ -10,7 +10,7 @@ A3CINE.es,A3CINE,
 AM.es,AM,
 AMC.Break.es,AMC Break,https://programacion-tv.elpais.com/imagenes/canales/492.jpg
 AMC.Crime.es,AMC Crime,https://programacion-tv.elpais.com/imagenes/canales/691.jpg
-AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c34e2/RNA_miniplayer.png
+AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
 ATV.es,ATV,
 AXN.Movies.es,AXN Movies,https://programacion-tv.elpais.com/imagenes/canales/512.jpg
 AXN.es,AXN,https://programacion-tv.elpais.com/imagenes/canales/63.jpg
@@ -220,7 +220,7 @@ Movistar.Plus+.es,Movistar Plus+,https://e01-elmundo.uecdn.es/television/program
 Movistar.Plus.es,Movistar Plus,https://programacion-tv.elpais.com/imagenes/canales/9551.jpg
 Movistar.Series.es,Movistar Series,https://programacion-tv.elpais.com/imagenes/canales/843.jpg
 Musicales.por.M+.\n.es,Musicales por M+ \n,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mmusic.png
-NATV.1.es,NATV 1,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
+NATV.1.es,NATV 1,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
 NATV.2.es,NATV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
 NOW.70's.es,NOW 70's,
 NOW.80's.es,NOW 80's,
@@ -247,7 +247,7 @@ Pro.TV.Internacional.es,Pro TV Internacional,https://programacion-tv.elpais.com/
 Punt.3.es,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Qello.Concerts.es,Qello Concerts,
 Qwest.TV.es,Qwest TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/QWEST_TV_176x122.png
-RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c34e2/RNA_miniplayer.png
+RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2025/05/20/682c2f52/ATV_miniplayer.png
 Real.Madrid.TV.es,Real Madrid TV,https://programacion-tv.elpais.com/imagenes/canales/158.jpg
 Record.TV.es,Record TV,https://programacion-tv.elpais.com/imagenes/canales/615.jpg
 SELEKT.es,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122.png
