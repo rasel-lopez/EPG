@@ -146,7 +146,7 @@ La.1.Catalunya.es,La 1 Catalunya,https://programacion-tv.elpais.com/imagenes/can
 La.1.HD.es,La 1 HD,https://programacion-tv.elpais.com/imagenes/canales/690.jpg
 La.1.es,La 1,https://programacion-tv.elpais.com/imagenes/canales/3.jpg
 La.2.es,La 2,https://programacion-tv.elpais.com/imagenes/canales/4.jpg
-La.7.Rioja.es,La 7 Rioja,https://cdn.sincroguia.tv/uploads/images/r/5/e/xla-7.jpg.pagespeed.ic.3RarWccZfj.jpg
+La.7.Rioja.es,La 7 Rioja,
 La.8.es,La 8,https://programacion-tv.elpais.com/imagenes/canales/643.jpg
 La.Ocho.mediterráneo.es,La Ocho mediterráneo,https://cdn.sincroguia.tv/uploads/channels/xlogo-la-ocho-mediterraneo-832.jpg.pagespeed.ic.Mz4BvhvyY7.jpg
 La.Otra.es,La Otra,https://programacion-tv.elpais.com/imagenes/canales/39.jpg
@@ -256,8 +256,8 @@ SX3-33.es,SX3-33,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/
 SX3.es,SX3,
 Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
-Solidaria.TV.Argentina.es,Solidaria TV Argentina,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
-Solidaria.TV.España.es,Solidaria TV España,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
+Solidaria.TV.Argentina.es,Solidaria TV Argentina,
+Solidaria.TV.España.es,Solidaria TV España,
 Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
 Squirrel.2.es,Squirrel 2,
 Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
