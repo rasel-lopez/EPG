@@ -1,164 +1,210 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
-13.TV.es,13 TV,https://programacion-tv.elpais.com/imagenes/canales/689.jpg
-3/24.es,3/24,https://programacion-tv.elpais.com/imagenes/canales/449.jpg
+#Vamos.es,#Vamos,https://cdn.sincroguia.tv/storage/channels/1039-square.jpg
 324.es,324,
+33.es,33,
+3CatInfo.es,3CatInfo,https://cdn.sincroguia.tv/storage/channels/449-square.jpg
 4K.Travel.TV.es,4K Travel TV,
-7.Región.de.Murcia.es,7 Región de Murcia,https://programacion-tv.elpais.com/imagenes/canales/551.jpg
-7TV.Andalucía.es,7TV Andalucía,
+7.Región.de.Murcia.es,7 Región de Murcia,https://cdn.sincroguia.tv/storage/channels/551-square.jpg
+7TV.Andalucía.es,7TV Andalucía,https://cdn.sincroguia.tv/storage/channels/1125-square.jpg
 8.Madrid.es,8 Madrid,https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg
 A3CINE.es,A3CINE,
 AM.es,AM,
-AMC.Break.es,AMC Break,https://programacion-tv.elpais.com/imagenes/canales/492.jpg
-AMC.Crime.es,AMC Crime,https://programacion-tv.elpais.com/imagenes/canales/691.jpg
+AMC+.Connect.es,AMC+ Connect,https://cdn.sincroguia.tv/storage/channels/9488/9488-square.jpg
+AMC.Anime.es,AMC Anime,https://cdn.sincroguia.tv/storage/channels/9487/9487-square.jpg
+AMC.Break.es,AMC Break,https://cdn.sincroguia.tv/storage/channels/492-square.jpg
 AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
 ATV.es,ATV,
-AXN.Movies.es,AXN Movies,https://programacion-tv.elpais.com/imagenes/canales/512.jpg
-AXN.es,AXN,https://programacion-tv.elpais.com/imagenes/canales/63.jpg
+AXN.Movies.es,AXN Movies,https://cdn.sincroguia.tv/storage/channels/512-square.jpg
+AXN.es,AXN,https://cdn.sincroguia.tv/storage/channels/63-square.jpg
+AZ.Corazón.es,AZ Corazón,https://cdn.sincroguia.tv/storage/channels/789-square.jpg
+Acción.por.M+.es,Acción por M+,https://cdn.sincroguia.tv/storage/channels/847-square.jpg
 Acontra+.es,Acontra+,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A418b8b68e99cf272%2Foriginal%2FChannel_logo-Acontra-24h.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A418b8b68e99cf272%2Foriginal%2FChannel_logo-Acontra-24h.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A418b8b68e99cf272%2Foriginal%2FChannel_logo-Acontra-24h.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A418b8b68e99cf272%2Foriginal%2FChannel_logo-Acontra-24h.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
-Al.Jazeera.English.es,Al Jazeera English,https://programacion-tv.elpais.com/imagenes/canales/539.jpg
-Amc.Selekt.es,Amc Selekt,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/08/10001160.png
-Andalucía.TV.es,Andalucía TV,https://programacion-tv.elpais.com/imagenes/canales/32.jpg
+Al.Jazeera.English.es,Al Jazeera English,https://cdn.sincroguia.tv/storage/channels/539-square.jpg
+Amc.Selekt.es,Amc Selekt,https://cdn.sincroguia.tv/storage/channels/1160-square.jpg
+Andalucía.Televisión.es,Andalucía Televisión,https://cdn.sincroguia.tv/storage/channels/831-square.jpg
+Andorra.Televisió.es,Andorra Televisió,https://cdn.sincroguia.tv/storage/channels/1066-square.jpg
 Antena.3.Internacional.es,Antena 3 Internacional,
-Antena.3.es,Antena 3,https://programacion-tv.elpais.com/imagenes/canales/2.jpg
-Aragón.TV.es,Aragón TV,https://programacion-tv.elpais.com/imagenes/canales/522.jpg
+Antena.3.es,Antena 3,https://cdn.sincroguia.tv/storage/channels/2-square.jpg
+Antena.Motor.es,Antena Motor,https://cdn.sincroguia.tv/storage/channels/1242-square.jpg
+Aragón.TV.INT..es,Aragón TV INT.,https://cdn.sincroguia.tv/storage/channels/617-square.jpg
+Aragón.Televisión.es,Aragón Televisión,https://cdn.sincroguia.tv/storage/channels/522-square.jpg
 Atreseries.Internacional.es,Atreseries Internacional,
-Atreseries.es,Atreseries,https://programacion-tv.elpais.com/imagenes/canales/883.jpg
-BBC.Earth.es,BBC Earth,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbcear.png
+Atreseries.es,Atreseries,https://cdn.sincroguia.tv/storage/channels/883-square.jpg
+BBC.Earth.es,BBC Earth,https://cdn.sincroguia.tv/storage/channels/9499-square.jpg
 BBC.Food.es,BBC Food,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png
 BBC.History.es,BBC History,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbhis.png
-BBC.Lifestyle.es,BBC Lifestyle,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbclif.png
-BBC.News.es,BBC News,https://programacion-tv.elpais.com/imagenes/canales/208.jpg
+BBC.Lifestyle.es,BBC Lifestyle,https://cdn.sincroguia.tv/storage/channels/9498-square.jpg
 BBC.Series.es,BBC Series,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbdra.png
-BBC.Top.Gear.es,BBC Top Gear,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbgea.png
-BOM.Cine.es,BOM Cine,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10001003.png
-Baby.TV.es,Baby TV,https://programacion-tv.elpais.com/imagenes/canales/573.jpg
-Be.Mad.es,Be Mad,https://programacion-tv.elpais.com/imagenes/canales/890.jpg
-BeIN.Sports.es,BeIN Sports,https://programacion-tv.elpais.com/imagenes/canales/840.jpg
+BBC.Top.Gear.es,BBC Top Gear,https://cdn.sincroguia.tv/storage/channels/9446-square.jpg
+BBC.World.es,BBC World,https://cdn.sincroguia.tv/storage/channels/208-square.jpg
+BOM.Cine.es,BOM Cine,https://cdn.sincroguia.tv/storage/channels/1003-square.jpg
+BabyTV.es,BabyTV,https://cdn.sincroguia.tv/storage/channels/573-square.jpg
+Be.Mad.es,Be Mad,https://cdn.sincroguia.tv/storage/channels/890-square.jpg
 Betevé.es,Betevé,
-Bloomberg.es,Bloomberg,https://programacion-tv.elpais.com/imagenes/canales/196.jpg
-Boing.es,Boing,https://programacion-tv.elpais.com/imagenes/canales/665.jpg
+BetisTV.es,BetisTV,https://cdn.sincroguia.tv/storage/channels/979-square.jpg
+Bloomberg.es,Bloomberg,https://cdn.sincroguia.tv/storage/channels/196-square.jpg
+Boing.es,Boing,https://cdn.sincroguia.tv/storage/channels/665-square.jpg
 Bon.Dia.TV.es,Bon Dia TV,
-Buen.viaje.es,Buen viaje,https://programacion-tv.elpais.com/imagenes/canales/171.jpg
 C.Hollywood.es,C Hollywood,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HOLLYWOOD_176x122.png
 CGTN.Documentary.HD.es,CGTN Documentary HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cgtndo.png
-CGTN.Español.es,CGTN Español,https://programacion-tv.elpais.com/imagenes/canales/619.jpg
+CGTN.Español.es,CGTN Español,https://cdn.sincroguia.tv/storage/channels/619-square.jpg
 CMM.TV.es,CMM TV,
-CNBC.Europe.es,CNBC Europe,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/4c/10000204.png
-CNN.Internacional.es,CNN Internacional,https://programacion-tv.elpais.com/imagenes/canales/203.jpg
-Calle.13.es,Calle 13,https://programacion-tv.elpais.com/imagenes/canales/64.jpg
-Canal.24.h.es,Canal 24 h,https://programacion-tv.elpais.com/imagenes/canales/8.jpg
+CNBC.Europe.es,CNBC Europe,https://cdn.sincroguia.tv/storage/channels/204-square.jpg
+CNN.Internacional.es,CNN Internacional,https://cdn.sincroguia.tv/storage/channels/203-square.jpg
+COSMO.es,COSMO,https://cdn.sincroguia.tv/storage/channels/186-square.jpg
+Calle.13.es,Calle 13,https://cdn.sincroguia.tv/storage/channels/64-square.jpg
+Canal.24.horas.Cataluña.es,Canal 24 horas Cataluña,https://cdn.sincroguia.tv/storage/channels/635-square.jpg
+Canal.24.horas.es,Canal 24 horas,https://cdn.sincroguia.tv/storage/channels/8-square.jpg
 Canal.33.es,Canal 33,
-Canal.4.Tenerife.es,Canal 4 Tenerife,
-Canal.7.Televalencia.es,Canal 7 Televalencia,https://cdn.sincroguia.tv/uploads/images/7/-/t/x7-televalencia.jpg.pagespeed.ic.tgLrIa49KG.jpg
-Canal.Cocina.es,Canal Cocina,https://programacion-tv.elpais.com/imagenes/canales/183.jpg
+Canal.4.Tenerife.es,Canal 4 Tenerife,https://cdn.sincroguia.tv/storage/channels/9424-square.jpg
+Canal.7.Televalencia.es,Canal 7 Televalencia,https://cdn.sincroguia.tv/storage/channels/751-square.jpg
+Canal.Cocina.es,Canal Cocina,https://cdn.sincroguia.tv/storage/channels/183-square.jpg
+Canal.Extremadura.SAT.es,Canal Extremadura SAT,https://cdn.sincroguia.tv/storage/channels/logo-canal-extremadura-sat-851-square.jpg
 Canal.Extremadura.Sat.es,Canal Extremadura Sat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/extrem.png
-Canal.Extremadura.TV.es,Canal Extremadura TV,https://programacion-tv.elpais.com/imagenes/canales/582.jpg
+Canal.Extremadura.TV.es,Canal Extremadura TV,https://cdn.sincroguia.tv/storage/channels/logo-canal-extremadura-tv-582-square.jpg
 Canal.FlixOlé.1.es,Canal FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix1.png
 Canal.FlixOlé.2.es,Canal FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix2.png
 Canal.Fútbol.Replay.es,Canal Fútbol Replay,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/futrep.png
-Canal.Parlamento.es,Canal Parlamento,https://programacion-tv.elpais.com/imagenes/canales/604.jpg
+Canal.HISTORIA.es,Canal HISTORIA,https://cdn.sincroguia.tv/storage/channels/148-square.jpg
 Canal.Sur.2.es,Canal Sur 2,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9f/10000031.png
-Canal.Sur.Andalucía.es,Canal Sur Andalucía,https://programacion-tv.elpais.com/imagenes/canales/31.jpg
-Canal.Sur.es,Canal Sur,https://programacion-tv.elpais.com/imagenes/canales/30.jpg
-Caracol.TV.es,Caracol TV,https://programacion-tv.elpais.com/imagenes/canales/566.jpg
-Castilla.-.La.Mancha.TV.es,Castilla - La Mancha TV,https://programacion-tv.elpais.com/imagenes/canales/296.jpg
-Caza.y.Pesca.es,Caza y Pesca,https://programacion-tv.elpais.com/imagenes/canales/386.jpg
-Cazavisión.es,Cazavisión,https://programacion-tv.elpais.com/imagenes/canales/656.jpg
+Canal.Sur.Andalucía.es,Canal Sur Andalucía,https://cdn.sincroguia.tv/storage/channels/32-square.jpg
+Canal.Sur.es,Canal Sur,https://cdn.sincroguia.tv/storage/channels/30-square.jpg
+Canal.de.las.Estrellas.Europa.es,Canal de las Estrellas Europa,https://cdn.sincroguia.tv/storage/channels/589-square.jpg
+Castilla-La.Mancha.Media.es,Castilla-La Mancha Media,https://cdn.sincroguia.tv/storage/channels/296-square.jpg
+Caza.y.Pesca.es,Caza y Pesca,https://cdn.sincroguia.tv/storage/channels/386-square.jpg
+Cazavisión.es,Cazavisión,https://cdn.sincroguia.tv/storage/channels/656-square.jpg
+Cine.Español.por.M+.es,Cine Español por M+,https://cdn.sincroguia.tv/storage/channels/385-square.jpg
 Cine.Feel.Good.es,Cine Feel Good,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/FEEL_GOOD_CIRCULAR_176X122.png
-Cine.Friki.es,Cine Friki,
+Cine.Friki.es,Cine Friki,https://cdn.sincroguia.tv/storage/channels/9508-square.jpg
 Cine.Western.es,Cine Western,
 Cines.Verdi.TV.es,Cines Verdi TV,https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png
-Clan.es,Clan,https://programacion-tv.elpais.com/imagenes/canales/505.jpg
-Club.MTV.International.es,Club MTV International,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/55/10000469.png
-Comedy.Central.es,Comedy Central,https://programacion-tv.elpais.com/imagenes/canales/493.jpg
-Cosmopolitan.es,Cosmopolitan,https://programacion-tv.elpais.com/imagenes/canales/186.jpg
-Cuatro.es,Cuatro,https://programacion-tv.elpais.com/imagenes/canales/496.jpg
-Cubavisión.Internacional.es,Cubavisión Internacional,https://programacion-tv.elpais.com/imagenes/canales/567.jpg
-CyLTV.es,CyLTV,https://programacion-tv.elpais.com/imagenes/canales/324.jpg
-DAZN.1.es,DAZN 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/m1sd.png
-DAZN.2.es,DAZN 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/m2sd.png
-DAZN.3.es,DAZN 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dazn3.png
-DAZN.4.es,DAZN 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dazn4.png
-DAZN.F1.es,DAZN F1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mvf1.png
+Clan.TVE.es,Clan TVE,https://cdn.sincroguia.tv/storage/channels/505-square.jpg
+Club.MTV.International.es,Club MTV International,https://cdn.sincroguia.tv/storage/channels/469/469-square.jpg
+Clásicos.por.M+.es,Clásicos por M+,https://cdn.sincroguia.tv/storage/channels/1231-square.jpg
+Comedia.por.M+.es,Comedia por M+,https://cdn.sincroguia.tv/storage/channels/848-square.jpg
+Comedy.Central.HD.es,Comedy Central HD,https://cdn.sincroguia.tv/storage/channels/493-square.jpg
+Crimen.&amp;.Historia.es,Crimen &amp; Historia,https://cdn.sincroguia.tv/storage/channels/9506-square.jpg
+Crimen.&amp;.Investigación.es,Crimen &amp; Investigación,https://cdn.sincroguia.tv/storage/channels/691-square.jpg
+Cry.Babies.es,Cry Babies,https://cdn.sincroguia.tv/storage/channels/9503-square.jpg
+Cuatro.es,Cuatro,https://cdn.sincroguia.tv/storage/channels/496-square.jpg
+Cubavisión.Internacional.es,Cubavisión Internacional,https://cdn.sincroguia.tv/storage/channels/567-square.jpg
+CyLTV.Global.es,CyLTV Global,https://cdn.sincroguia.tv/storage/channels/9429-square.jpg
+DAZN.1.Bar.es,DAZN 1 Bar,https://cdn.sincroguia.tv/storage/channels/1259-square.jpg
+DAZN.1.es,DAZN 1,https://cdn.sincroguia.tv/storage/channels/1161-square.jpg
+DAZN.2.Bar.es,DAZN 2 Bar,https://cdn.sincroguia.tv/storage/channels/1260-square.jpg
+DAZN.2.es,DAZN 2,https://cdn.sincroguia.tv/storage/channels/1162-square.jpg
+DAZN.3.es,DAZN 3,https://cdn.sincroguia.tv/storage/channels/1168-square.jpg
+DAZN.4.es,DAZN 4,https://cdn.sincroguia.tv/storage/channels/1169-square.jpg
+DAZN.F1.es,DAZN F1,https://cdn.sincroguia.tv/storage/channels/798-square.jpg
 DAZN.LALIGA.2.es,DAZN LALIGA 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/daznl2.png
 DAZN.LALIGA.es,DAZN LALIGA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/daznli.png
-DMAX.es,DMAX,https://programacion-tv.elpais.com/imagenes/canales/475.jpg
-Dark.es,Dark,https://programacion-tv.elpais.com/imagenes/canales/920.jpg
-Decasa.es,Decasa,https://programacion-tv.elpais.com/imagenes/canales/572.jpg
-Deutsche.Welle.es,Deutsche Welle,https://programacion-tv.elpais.com/imagenes/canales/206.jpg
-Discovery.Channel.es,Discovery Channel,https://programacion-tv.elpais.com/imagenes/canales/146.jpg
-Disney.Channel.+1.es,Disney Channel +1,https://programacion-tv.elpais.com/imagenes/canales/291.jpg
-Disney.Channel.es,Disney Channel,https://programacion-tv.elpais.com/imagenes/canales/175.jpg
-Disney.Junior.es,Disney Junior,https://programacion-tv.elpais.com/imagenes/canales/292.jpg
-Distrito.TV.es,Distrito TV,https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png
-Divinity.es,Divinity,https://programacion-tv.elpais.com/imagenes/canales/697.jpg
+DAZN.LaLiga.2.es,DAZN LaLiga 2,https://cdn.sincroguia.tv/storage/channels/1273-square.jpg
+DAZN.LaLiga.es,DAZN LaLiga,https://cdn.sincroguia.tv/storage/channels/1274-square.jpg
+DBike.es,DBike,https://cdn.sincroguia.tv/storage/channels/1230-square.jpg
+DKISS.es,DKISS,https://cdn.sincroguia.tv/storage/channels/892-square.jpg
+DMAX.es,DMAX,https://cdn.sincroguia.tv/storage/channels/475-square.jpg
+Dark.es,Dark,https://cdn.sincroguia.tv/storage/channels/920-square.jpg
+Dark/Dorcel.es,Dark/Dorcel,https://cdn.sincroguia.tv/storage/channels/688-square.jpg
+Decasa.es,Decasa,https://cdn.sincroguia.tv/storage/channels/572-square.jpg
+Deutsche.Welle.es,Deutsche Welle,https://cdn.sincroguia.tv/storage/channels/206-square.jpg
+Discovery.Channel.es,Discovery Channel,https://cdn.sincroguia.tv/storage/channels/146-square.jpg
+Disney.Channel.es,Disney Channel,https://cdn.sincroguia.tv/storage/channels/292-square.jpg
+Distrito.TV.es,Distrito TV,https://cdn.sincroguia.tv/storage/channels/9425-square.jpg
+Divinity.es,Divinity,https://cdn.sincroguia.tv/storage/channels/697-square.jpg
 Djazz.es,Djazz,
-Dkiss.es,Dkiss,https://programacion-tv.elpais.com/imagenes/canales/892.jpg
+Documentales.por.M+.es,Documentales por M+,https://cdn.sincroguia.tv/storage/channels/9372-square.jpg
+Drama.por.M+.es,Drama por M+,https://cdn.sincroguia.tv/storage/channels/849-square.jpg
+DreamWorks.es,DreamWorks,https://cdn.sincroguia.tv/storage/channels/1159-square.jpg
 Dreamworks.es,Dreamworks,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dwsp.png
 EITB.BASQUE.es,EITB BASQUE,
-ETB.1.HD.es,ETB 1 HD,https://programacion-tv.elpais.com/imagenes/canales/33.jpg
-ETB.2.es,ETB 2,https://programacion-tv.elpais.com/imagenes/canales/34.jpg
-ETB.3.es,ETB 3,https://programacion-tv.elpais.com/imagenes/canales/795.jpg
-ETB.4.es,ETB 4,https://programacion-tv.elpais.com/imagenes/canales/35.jpg
+EITB.Basque.es,EITB Basque,https://cdn.sincroguia.tv/storage/channels/35/35-square.jpg
+ETB.1.es,ETB 1,https://cdn.sincroguia.tv/storage/channels/33-square.jpg
+ETB.2.es,ETB 2,https://cdn.sincroguia.tv/storage/channels/34-square.jpg
+ETB.3.es,ETB 3,https://cdn.sincroguia.tv/storage/channels/795/795-square.jpg
+ETB.4.es,ETB 4,https://cdn.sincroguia.tv/storage/channels/781/781-square.jpg
+ETB1.ON.es,ETB1 ON,https://cdn.sincroguia.tv/storage/channels/9530-square.jpg
 ETB1.es,ETB1,
+ETB2.ON.es,ETB2 ON,https://cdn.sincroguia.tv/storage/channels/9531-square.jpg
 ETB2.es,ETB2,
 ETB3.es,ETB3,
 ETB4.es,ETB4,
-EWTN.es,EWTN,https://programacion-tv.elpais.com/imagenes/canales/190.jpg
+EWTN.es,EWTN,https://cdn.sincroguia.tv/storage/channels/190-square.jpg
 El.Confidencial.es,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
-El.Garage.TV.es,El Garage TV,https://programacion-tv.elpais.com/imagenes/canales/786.jpg
+El.Garage.TV.es,El Garage TV,https://cdn.sincroguia.tv/storage/channels/786-square.jpg
 El.País.es,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
-El.Toro.TV.es,El Toro TV,https://programacion-tv.elpais.com/imagenes/canales/516.jpg
-El.Trece.Internacional.es,El Trece Internacional,https://programacion-tv.elpais.com/imagenes/canales/790.jpg
-Elche.7.TV.es,Elche 7 TV,https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png
-En.familia.es,En familia,https://programacion-tv.elpais.com/imagenes/canales/698.jpg
-Energy.es,Energy,https://programacion-tv.elpais.com/imagenes/canales/709.jpg
-Esport.3.es,Esport 3,
-Esport3.es,Esport3,https://programacion-tv.elpais.com/imagenes/canales/672.jpg
-Euronews.es,Euronews,https://programacion-tv.elpais.com/imagenes/canales/139.jpg
-Eurosport.2.es,Eurosport 2,https://programacion-tv.elpais.com/imagenes/canales/491.jpg
-Eurosport.es,Eurosport,https://programacion-tv.elpais.com/imagenes/canales/154.jpg
+El.Toro.TV.es,El Toro TV,https://cdn.sincroguia.tv/storage/channels/516-square.jpg
+El.Trece.Internacional.es,El Trece Internacional,https://cdn.sincroguia.tv/storage/channels/818-square.jpg
+Elche.7.TV.es,Elche 7 TV,https://cdn.sincroguia.tv/storage/channels/9453-square.jpg
+Energy.es,Energy,https://cdn.sincroguia.tv/storage/channels/709-square.jpg
+EsTuTele.es,EsTuTele,https://cdn.sincroguia.tv/storage/channels/9422-square.jpg
+Escapa.TV.es,Escapa TV,https://cdn.sincroguia.tv/storage/channels/1044-square.jpg
+Esport.3.es,Esport 3,https://cdn.sincroguia.tv/storage/channels/672-square.jpg
+Estrenos.por.M+.es,Estrenos por M+,https://cdn.sincroguia.tv/storage/channels/9370-square.jpg
+Euronews.es,Euronews,https://cdn.sincroguia.tv/storage/channels/139-square.jpg
+Eurosport.1.es,Eurosport 1,https://cdn.sincroguia.tv/storage/channels/154-square.jpg
+Eurosport.2.es,Eurosport 2,https://cdn.sincroguia.tv/storage/channels/491-square.jpg
 Eventos.3.es,Eventos 3,
 Eventos.4.es,Eventos 4,
-Extreme.Sports.es,Extreme Sports,https://programacion-tv.elpais.com/imagenes/canales/550.jpg
-FDF.Telecinco.es,FDF Telecinco,https://programacion-tv.elpais.com/imagenes/canales/506.jpg
+Extreme.Channel.es,Extreme Channel,https://cdn.sincroguia.tv/storage/channels/550-square.jpg
+FDF.Telecinco.es,FDF Telecinco,https://cdn.sincroguia.tv/storage/channels/506-square.jpg
+FOX.es,FOX,https://cdn.sincroguia.tv/storage/channels/202-square.jpg
 FailArmy.es,FailArmy,
 Flamenco.Auditorio.es,Flamenco Auditorio,
-France.24.es,France 24,https://programacion-tv.elpais.com/imagenes/canales/608.jpg
-GOL.PLAY.es,GOL PLAY,https://cdn.sincroguia.tv/uploads/images/1/b/q/xgol-play.jpg.pagespeed.ic._Ubw0eZ5q-.jpg
-Galicia.TV.es,Galicia TV,https://programacion-tv.elpais.com/imagenes/canales/37.jpg
-Gol.TV.es,Gol TV,https://programacion-tv.elpais.com/imagenes/canales/897.jpg
-HBO.Max.Avances.es,HBO Max Avances,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/maxava.png
+France.24.es,France 24,https://cdn.sincroguia.tv/storage/channels/547-square.jpg
+GCM.es,GCM,https://cdn.sincroguia.tv/storage/channels/9426-square.jpg
+GOL.PLAY.es,GOL PLAY,https://cdn.sincroguia.tv/storage/channels/897-square.jpg
+Global.Telenovelas.TV.es,Global Telenovelas TV,https://cdn.sincroguia.tv/storage/channels/1143-square.jpg
+Global.Tendencias.TV.es,Global Tendencias TV,https://cdn.sincroguia.tv/storage/channels/1142-square.jpg
+Gulli.es,Gulli,https://cdn.sincroguia.tv/storage/channels/1152-square.jpg
+HBO.Max.Avances.es,HBO Max Avances,https://cdn.sincroguia.tv/storage/channels/9431-square.jpg
 Heritage+.es,Heritage+,
-Historia.es,Historia,https://programacion-tv.elpais.com/imagenes/canales/148.jpg
 Historia.y.Vida.es,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3.png
+Hits.Por.M+.es,Hits Por M+,https://cdn.sincroguia.tv/storage/channels/9450-square.jpg
 Hits.por.M+.es,Hits por M+,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6a/10009450.png
-Hollywood.+1.es,Hollywood +1,https://programacion-tv.elpais.com/imagenes/canales/671.jpg
-Hollywood.es,Hollywood,https://programacion-tv.elpais.com/imagenes/canales/61.jpg
-Iberalia.es,Iberalia,https://programacion-tv.elpais.com/imagenes/canales/654.jpg
+Hollywood.es,Hollywood,https://cdn.sincroguia.tv/storage/channels/61-square.jpg
+Horse.TV.es,Horse TV,https://cdn.sincroguia.tv/storage/channels/1201-square.jpg
+Huelva.TV.es,Huelva TV,https://cdn.sincroguia.tv/storage/channels/1011-square.jpg
+IB3.Global.es,IB3 Global,https://cdn.sincroguia.tv/storage/channels/1100-square.jpg
+IB3.es,IB3,https://cdn.sincroguia.tv/storage/channels/519-square.jpg
+Iberalia.Caza.es,Iberalia Caza,https://cdn.sincroguia.tv/storage/channels/1140-square.jpg
+Iberalia.Pesca.es,Iberalia Pesca,https://cdn.sincroguia.tv/storage/channels/1141-square.jpg
+Iberalia.es,Iberalia,https://cdn.sincroguia.tv/storage/channels/654-square.jpg
 Imas.TV.es,Imas TV,https://imastv.es/wp-content/uploads/2024/05/cropped-mosca-pequena.png
+Indie.por.M+.es,Indie por M+,https://cdn.sincroguia.tv/storage/channels/9375-square.jpg
+Información.TV.es,Información TV,https://cdn.sincroguia.tv/storage/channels/995-square.jpg
 LALIGA.Inside.es,LALIGA Inside,
-LALIGA.TV.BAR.es,LALIGA TV BAR,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png
+LALIGA.TV.BAR.2.es,LALIGA TV BAR 2,https://cdn.sincroguia.tv/storage/channels/901-square.jpg
+LALIGA.TV.BAR.3.es,LALIGA TV BAR 3,https://cdn.sincroguia.tv/storage/channels/903-square.jpg
+LALIGA.TV.BAR.5.es,LALIGA TV BAR 5,https://cdn.sincroguia.tv/storage/channels/905-square.jpg
 LALIGA.TV.HYPERMOTION.2.es,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs2.png
 LALIGA.TV.HYPERMOTION.3.es,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs3.png
 LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs.png
-La.1.Catalunya.es,La 1 Catalunya,https://programacion-tv.elpais.com/imagenes/canales/18.jpg
-La.1.HD.es,La 1 HD,https://programacion-tv.elpais.com/imagenes/canales/690.jpg
-La.1.es,La 1,https://programacion-tv.elpais.com/imagenes/canales/3.jpg
-La.2.es,La 2,https://programacion-tv.elpais.com/imagenes/canales/4.jpg
-La.7.Rioja.es,La 7 Rioja,
-La.8.es,La 8,https://programacion-tv.elpais.com/imagenes/canales/643.jpg
-La.Ocho.mediterráneo.es,La Ocho mediterráneo,https://cdn.sincroguia.tv/uploads/channels/xlogo-la-ocho-mediterraneo-832.jpg.pagespeed.ic.Mz4BvhvyY7.jpg
-La.Otra.es,La Otra,https://programacion-tv.elpais.com/imagenes/canales/39.jpg
-Levante.TV.es,Levante TV,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/64/10000996.png
-Libertad.Digital.TV.es,Libertad Digital TV,https://programacion-tv.elpais.com/imagenes/canales/603.jpg
+LLALIGA.TV.BAR.4.es,LLALIGA TV BAR 4,https://cdn.sincroguia.tv/storage/channels/904-square.jpg
+La.1.Canarias.es,La 1 Canarias,https://cdn.sincroguia.tv/storage/channels/14-square.jpg
+La.1.Catalunya.es,La 1 Catalunya,https://cdn.sincroguia.tv/storage/channels/18-square.jpg
+La.1.es,La 1,https://cdn.sincroguia.tv/storage/channels/3-square.jpg
+La.2.Canarias.es,La 2 Canarias,https://cdn.sincroguia.tv/storage/channels/288-square.jpg
+La.2.Catalunya.es,La 2 Catalunya,https://cdn.sincroguia.tv/storage/channels/280-square.jpg
+La.2.es,La 2,https://cdn.sincroguia.tv/storage/channels/4-square.jpg
+La.7.Rioja.es,La 7 Rioja,https://cdn.sincroguia.tv/storage/channels/1167-square.jpg
+La.7.es,La 7,https://cdn.sincroguia.tv/storage/channels/324-square.jpg
+La.8.Burgos.es,La 8 Burgos,https://cdn.sincroguia.tv/storage/channels/872-square.jpg
+La.8.es,La 8,https://cdn.sincroguia.tv/storage/channels/643-square.jpg
+La.Ocho.mediterráneo.es,La Ocho mediterráneo,https://cdn.sincroguia.tv/storage/channels/832-square.jpg
+La.Otra.es,La Otra,https://cdn.sincroguia.tv/storage/channels/39-square.jpg
+LaLiga+.es,LaLiga+,https://cdn.sincroguia.tv/storage/channels/9386-square.jpg
+LaLiga.TV.Hypermotion.2.es,LaLiga TV Hypermotion 2,https://cdn.sincroguia.tv/storage/channels/1280-square.jpg
+LaLiga.TV.Hypermotion.3.es,LaLiga TV Hypermotion 3,https://cdn.sincroguia.tv/storage/channels/1281-square.jpg
+LaLiga.TV.Hypermotion.es,LaLiga TV Hypermotion,https://cdn.sincroguia.tv/storage/channels/1278-square.jpg
+LaLiga.TV.es,LaLiga TV,https://cdn.sincroguia.tv/storage/channels/896-square.jpg
+Levante.TV.es,Levante TV,https://cdn.sincroguia.tv/storage/channels/996-square.jpg
 Love.The.Planet.es,Love The Planet,
 Love.Wine.es,Love Wine,
 M+.Acción.es,M+ Acción,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpacci.png
 M+.Cine.Español.es,M+ Cine Español,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dcesp.png
 M+.Clásicos.es,M+ Clásicos,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mclas.png
 M+.Comedia.es,M+ Comedia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpcome.png
-M+.Copa.del.Rey.es,M+ Copa del Rey,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mcopa.png
+M+.Copa.del.Rey.es,M+ Copa del Rey,https://cdn.sincroguia.tv/storage/channels/9438/9438-square.jpg
 M+.Deportes.2.es,M+ Deportes 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/arthur.png
 M+.Deportes.3.es,M+ Deportes 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop2.png
 M+.Deportes.4.es,M+ Deportes 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop3.png
@@ -174,11 +220,11 @@ M+.Golf.2.es,M+ Golf 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/go
 M+.Golf.es,M+ Golf,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/golf%2B.png
 M+.Hits.es,M+ Hits,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mhits.png
 M+.Indie.es,M+ Indie,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mindi.png
-M+.LALIGA.TV.2.es,M+ LALIGA TV 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig1.png
-M+.LALIGA.TV.3.es,M+ LALIGA TV 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig2.png
-M+.LALIGA.TV.4.es,M+ LALIGA TV 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mlig3.png
+M+.LALIGA.TV.2.es,M+ LALIGA TV 2,https://cdn.sincroguia.tv/storage/channels/1085-square.jpg
+M+.LALIGA.TV.3.es,M+ LALIGA TV 3,https://cdn.sincroguia.tv/storage/channels/1086-square.jpg
+M+.LALIGA.TV.4.es,M+ LALIGA TV 4,https://cdn.sincroguia.tv/storage/channels/1087/1087-square.jpg
 M+.LALIGA.TV.UHD.es,M+ LALIGA TV UHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mliguh.png
-M+.LALIGA.TV.es,M+ LALIGA TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mliga.png
+M+.LALIGA.TV.es,M+ LALIGA TV,https://cdn.sincroguia.tv/storage/channels/1082-square.jpg
 M+.Liga.de.Campeones..3.es,M+ Liga de Campeones  3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap2.png
 M+.Liga.de.Campeones..4.es,M+ Liga de Campeones  4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap3.png
 M+.Liga.de.Campeones.10.es,M+ Liga de Campeones 10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap9.png
@@ -191,116 +237,138 @@ M+.Liga.de.Campeones.6.es,M+ Liga de Campeones 6,https://www.movistarplus.es/rec
 M+.Liga.de.Campeones.7.es,M+ Liga de Campeones 7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap6.png
 M+.Liga.de.Campeones.8.es,M+ Liga de Campeones 8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap7.png
 M+.Liga.de.Campeones.9.es,M+ Liga de Campeones 9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap8.png
-M+.Liga.de.Campeones.HDR.es,M+ Liga de Campeones HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chhdr.png
-M+.Liga.de.Campeones.es,M+ Liga de Campeones,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chapio.png
+M+.Liga.de.Campeones.HDR.es,M+ Liga de Campeones HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chapio.png
+M+.Liga.de.Campeones.es,M+ Liga de Campeones,
 M+.Liga.de.Campeones2.HDR.es,M+ Liga de Campeones2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chhdr2.png
 M+.Los.90.es,M+ Los 90,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ml90.png
 M+.Originales.es,M+ Originales,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/morig.png
-M+.Vamos.es,M+ Vamos,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/vamosd.png
-MTV.80s.es,MTV 80s,https://programacion-tv.elpais.com/imagenes/canales/705.jpg
-MTV.90s.es,MTV 90s,https://programacion-tv.elpais.com/imagenes/canales/160.jpg
-MTV.Dance.es,MTV Dance,https://programacion-tv.elpais.com/imagenes/canales/469.jpg
-MTV.España.es,MTV España,https://programacion-tv.elpais.com/imagenes/canales/159.jpg
-MTV.Hits.es,MTV Hits,https://programacion-tv.elpais.com/imagenes/canales/161.jpg
-MTV.Live.es,MTV Live,https://programacion-tv.elpais.com/imagenes/canales/702.jpg
-MTV.Music.es,MTV Music,https://programacion-tv.elpais.com/imagenes/canales/627.jpg
-MTV00.es,MTV00,https://programacion-tv.elpais.com/imagenes/canales/165.jpg
-Mega.es,Mega,https://programacion-tv.elpais.com/imagenes/canales/841.jpg
+M+.Vamos.2.es,M+ Vamos 2,https://cdn.sincroguia.tv/storage/channels/9387-square.jpg
+M+.Vamos.3.es,M+ Vamos 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/vamosd.png
+M+.Vamos.es,M+ Vamos,
+MTV.00s.es,MTV 00s,https://cdn.sincroguia.tv/storage/channels/165-square.jpg
+MTV.80s.es,MTV 80s,https://cdn.sincroguia.tv/storage/channels/705/705-square.jpg
+MTV.90s.es,MTV 90s,https://cdn.sincroguia.tv/storage/channels/160/160-square.jpg
+MTV.España.es,MTV España,https://cdn.sincroguia.tv/storage/channels/159-square.jpg
+MTV.Hits.es,MTV Hits,https://cdn.sincroguia.tv/storage/channels/161/161-square.jpg
+MTV.Live.es,MTV Live,https://cdn.sincroguia.tv/storage/channels/702/702-square.jpg
+Mega.es,Mega,https://cdn.sincroguia.tv/storage/channels/841-square.jpg
+Mezzo.Español.es,Mezzo Español,https://cdn.sincroguia.tv/storage/channels/1122-square.jpg
+Mezzo.Live.Español.es,Mezzo Live Español,https://cdn.sincroguia.tv/storage/channels/1123-square.jpg
 Mezzo.Live.es,Mezzo Live,
-Mezzo.es,Mezzo,https://programacion-tv.elpais.com/imagenes/canales/338.jpg
-Moto.GP.es,Moto GP,https://programacion-tv.elpais.com/imagenes/canales/804.jpg
-Movistar.Acción.es,Movistar Acción,https://programacion-tv.elpais.com/imagenes/canales/847.jpg
-Movistar.Cine.Español.es,Movistar Cine Español,https://programacion-tv.elpais.com/imagenes/canales/385.jpg
-Movistar.Comedia.es,Movistar Comedia,https://programacion-tv.elpais.com/imagenes/canales/848.jpg
-Movistar.Deportes.2.es,Movistar Deportes 2,https://programacion-tv.elpais.com/imagenes/canales/378.jpg
-Movistar.Deportes.es,Movistar Deportes,https://programacion-tv.elpais.com/imagenes/canales/377.jpg
-Movistar.F1.es,Movistar F1,https://programacion-tv.elpais.com/imagenes/canales/798.jpg
-Movistar.Golf.es,Movistar Golf,https://programacion-tv.elpais.com/imagenes/canales/333.jpg
-Movistar.Plus+.es,Movistar Plus+,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1b/10009371.png
-Movistar.Plus.es,Movistar Plus,https://programacion-tv.elpais.com/imagenes/canales/9551.jpg
-Movistar.Series.es,Movistar Series,https://programacion-tv.elpais.com/imagenes/canales/843.jpg
+Moto.ADV.es,Moto ADV,https://cdn.sincroguia.tv/storage/channels/1153-square.jpg
+Movistar.Deportes.1.es,Movistar Deportes 1,https://cdn.sincroguia.tv/storage/channels/377-square.jpg
+Movistar.Deportes.2.es,Movistar Deportes 2,https://cdn.sincroguia.tv/storage/channels/1059-square.jpg
+Movistar.Deportes.3.es,Movistar Deportes 3,https://cdn.sincroguia.tv/storage/channels/1060/1060-square.jpg
+Movistar.Golf.2.es,Movistar Golf 2,https://cdn.sincroguia.tv/storage/channels/1332-square.jpg
+Movistar.Golf.es,Movistar Golf,https://cdn.sincroguia.tv/storage/channels/333-square.jpg
+Movistar.Liga.de.Campeones.2.es,Movistar Liga de Campeones 2,https://cdn.sincroguia.tv/storage/channels/1019/1019-square.jpg
+Movistar.Liga.de.Campeones.3.es,Movistar Liga de Campeones 3,https://cdn.sincroguia.tv/storage/channels/1025/1025-square.jpg
+Movistar.Liga.de.Campeones.4.es,Movistar Liga de Campeones 4,https://cdn.sincroguia.tv/storage/channels/1026/1026-square.jpg
+Movistar.Liga.de.Campeones.es,Movistar Liga de Campeones,https://cdn.sincroguia.tv/storage/channels/1015-square.jpg
+Movistar.Plus+.es,Movistar Plus+,https://cdn.sincroguia.tv/storage/channels/9371-square.jpg
 Musicales.por.M+.\n.es,Musicales por M+ \n,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mmusic.png
+MyPadel.TV.es,MyPadel TV,https://cdn.sincroguia.tv/storage/channels/9384-square.jpg
+MyZen.TV.es,MyZen TV,https://cdn.sincroguia.tv/storage/channels/812-square.jpg
+Mírame.TV.es,Mírame TV,https://cdn.sincroguia.tv/storage/channels/logo-mirame-tv-793-square.jpg
 NATV.1.es,NATV 1,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
 NATV.2.es,NATV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
+NHK.World.Premium.es,NHK World Premium,https://cdn.sincroguia.tv/storage/channels/9388-square.jpg
 NOW.70's.es,NOW 70's,
 NOW.80's.es,NOW 80's,
 NOW.Rock.es,NOW Rock,
-National.Geographic.Wild.HD.es,National Geographic Wild HD,https://programacion-tv.elpais.com/imagenes/canales/681.jpg
-National.Geographic.Wild\tGeoWild\t985.es,National Geographic Wild\tGeoWild\t985,https://programacion-tv.elpais.com/imagenes/canales/151.jpg
-National.Geographic.es,National Geographic,
+National.Geographic.Wild.HD.es,National Geographic Wild HD,https://cdn.sincroguia.tv/storage/channels/681-square.jpg
+National.Geographic.es,National Geographic,https://cdn.sincroguia.tv/storage/channels/151-square.jpg
 NatureTime.es,NatureTime,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/NATURE_TIME_176x122.png
-Navarra.Televisión.es,Navarra Televisión,https://programacion-tv.elpais.com/imagenes/canales/771.jpg
-Negocios.TV.es,Negocios TV,
-Neox.es,Neox,https://programacion-tv.elpais.com/imagenes/canales/508.jpg
+Nautical.Channel.es,Nautical Channel,https://cdn.sincroguia.tv/storage/channels/410-square.jpg
+Navarra.Televisión.es,Navarra Televisión,https://cdn.sincroguia.tv/storage/channels/771-square.jpg
+Negocios.TV.es,Negocios TV,https://cdn.sincroguia.tv/storage/channels/1147-square.jpg
+Neox.es,Neox,https://cdn.sincroguia.tv/storage/channels/508-square.jpg
 Nesting.TV.es,Nesting TV,
-Nick.Junior.es,Nick Junior,https://programacion-tv.elpais.com/imagenes/canales/687.jpg
-Nickelodeon.es,Nickelodeon,https://programacion-tv.elpais.com/imagenes/canales/200.jpg
-Nova.es,Nova,https://programacion-tv.elpais.com/imagenes/canales/509.jpg
-Odisea.es,Odisea,https://programacion-tv.elpais.com/imagenes/canales/135.jpg
+Nick.Junior.es,Nick Junior,https://cdn.sincroguia.tv/storage/channels/687-square.jpg
+Nickelodeon.es,Nickelodeon,https://cdn.sincroguia.tv/storage/channels/200-square.jpg
+Nova.es,Nova,https://cdn.sincroguia.tv/storage/channels/509-square.jpg
+Nuestra.Tele.es,Nuestra Tele,https://cdn.sincroguia.tv/storage/channels/613-square.jpg
+Odisea.es,Odisea,https://cdn.sincroguia.tv/storage/channels/135-square.jpg
 Oficios.perdidos.es,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
-Onda.Algeciras.TV.es,Onda Algeciras TV,https://programacion-tv.elpais.com/imagenes/canales/753.jpg
-Paramount.Network.es,Paramount Network,https://programacion-tv.elpais.com/imagenes/canales/716.jpg
+Onda.Algeciras.TV.es,Onda Algeciras TV,https://cdn.sincroguia.tv/storage/channels/753-square.jpg
+OndaCádiz.es,OndaCádiz,https://cdn.sincroguia.tv/storage/channels/983-square.jpg
+OneToro.TV.es,OneToro TV,https://cdn.sincroguia.tv/storage/channels/9397-square.jpg
+Originales.por.M+.es,Originales por M+,https://cdn.sincroguia.tv/storage/channels/9369-square.jpg
+Paramount.Network.es,Paramount Network,https://cdn.sincroguia.tv/storage/channels/716/716-square.jpg
+Pirineus.TV.es,Pirineus TV,https://cdn.sincroguia.tv/storage/channels/1065-square.jpg
 Planeta.de.Cine.es,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
+Playboy.TV.es,Playboy TV,https://cdn.sincroguia.tv/storage/channels/192-square.jpg
+Pop.Up.1.por.M+.es,Pop Up 1 por M+,https://cdn.sincroguia.tv/storage/channels/9400-square.jpg
+Pop.Up.2.por.M+.es,Pop Up 2 por M+,https://cdn.sincroguia.tv/storage/channels/9374-square.jpg
 Popular.TV.Cantabria.es,Popular TV Cantabria,https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png
-Popular.TV.Murcia.es,Popular TV Murcia,https://programacion-tv.elpais.com/imagenes/canales/754.jpg
-Pro.TV.Internacional.es,Pro TV Internacional,https://programacion-tv.elpais.com/imagenes/canales/570.jpg
+Popular.TV.Región.de.Murcia.es,Popular TV Región de Murcia,https://cdn.sincroguia.tv/storage/channels/754-square.jpg
+Primera.Federación.es,Primera Federación,https://cdn.sincroguia.tv/storage/channels/9491-square.jpg
+Pro.TV.Internacional.es,Pro TV Internacional,https://cdn.sincroguia.tv/storage/channels/570-square.jpg
 Punt.3.es,Punt 3,https://www.punt3.es/android-icon-192x192.png
-Qello.Concerts.es,Qello Concerts,
+Qello.Concerts.es,Qello Concerts,https://cdn.sincroguia.tv/storage/channels/9485-square.jpg
 Qwest.TV.es,Qwest TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/QWEST_TV_176x122.png
 RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
-Real.Madrid.TV.es,Real Madrid TV,https://programacion-tv.elpais.com/imagenes/canales/158.jpg
-Record.TV.es,Record TV,https://programacion-tv.elpais.com/imagenes/canales/615.jpg
+Real.Madrid.TV.es,Real Madrid TV,https://cdn.sincroguia.tv/storage/channels/158-square.jpg
+RekTV.es,RekTV,https://cdn.sincroguia.tv/storage/channels/1203-square.jpg
 SELEKT.es,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122.png
 SOL.Música.es,SOL Música,
-SX3-33.es,SX3-33,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9d/10000541.png
+SX3-33.es,SX3-33,https://cdn.sincroguia.tv/storage/channels/9403-square.jpg
 SX3.es,SX3,
 Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
+SkyShowtime.es,SkyShowtime,https://cdn.sincroguia.tv/storage/channels/9393-square.jpg
+Sol.Música.es,Sol Música,https://cdn.sincroguia.tv/storage/channels/171-square.jpg
 Solidaria.TV.Argentina.es,Solidaria TV Argentina,
 Solidaria.TV.España.es,Solidaria TV España,
-Somos.es,Somos,https://programacion-tv.elpais.com/imagenes/canales/501.jpg
-Squirrel.2.es,Squirrel 2,
-Star.es,Star,https://programacion-tv.elpais.com/imagenes/canales/202.jpg
-Sundance.Channel.es,Sundance Channel,https://programacion-tv.elpais.com/imagenes/canales/699.jpg
-Super.3.es,Super 3,https://programacion-tv.elpais.com/imagenes/canales/541.jpg
-Syfy.es,Syfy,https://programacion-tv.elpais.com/imagenes/canales/520.jpg
-TCM.+1.es,TCM +1,https://programacion-tv.elpais.com/imagenes/canales/59.jpg
-TCM.es,TCM,
-TPA_7.es,TPA_7,https://programacion-tv.elpais.com/imagenes/canales/521.jpg
+Somos.es,Somos,https://cdn.sincroguia.tv/storage/channels/501-square.jpg
+Squirrel.2.es,Squirrel 2,https://cdn.sincroguia.tv/storage/channels/9513-square.jpg
+Squirrel.es,Squirrel,https://cdn.sincroguia.tv/storage/channels/9447-square.jpg
+Stingray.Classica.es,Stingray Classica,https://cdn.sincroguia.tv/storage/channels/1074-square.jpg
+Sundance.TV.es,Sundance TV,https://cdn.sincroguia.tv/storage/channels/699-square.jpg
+Syfy.es,Syfy,https://cdn.sincroguia.tv/storage/channels/520-square.jpg
+TCM.es,TCM,https://cdn.sincroguia.tv/storage/channels/59-square.jpg
+TEN.es,TEN,https://cdn.sincroguia.tv/storage/channels/889-square.jpg
+TPA.es,TPA,https://cdn.sincroguia.tv/storage/channels/521-square.jpg
 TR3CE.es,TR3CE,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_7b5bfe03e4ac4f998eb4419bf.png
-TRECE.es,TRECE,
-TV.Chile.es,TV Chile,https://programacion-tv.elpais.com/imagenes/canales/416.jpg
-TV.Colombia.es,TV Colombia,https://programacion-tv.elpais.com/imagenes/canales/613.jpg
-TV.Mediterráneo.es,TV Mediterráneo,https://programacion-tv.elpais.com/imagenes/canales/832.jpg
+TRECE.es,TRECE,https://cdn.sincroguia.tv/storage/channels/689-square.jpg
+TV.Chile.es,TV Chile,https://cdn.sincroguia.tv/storage/channels/416-square.jpg
 TV.Melilla.es,TV Melilla,https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3.es
 TV3.CAT.es,TV3 CAT,
-TV3.es,TV3,https://programacion-tv.elpais.com/imagenes/canales/43.jpg
-TV3CAT.es,TV3CAT,https://programacion-tv.elpais.com/imagenes/canales/47.jpg
-TV5.Monde.es,TV5 Monde,https://programacion-tv.elpais.com/imagenes/canales/209.jpg
-TVE.Internacional.Asia.es,TVE Internacional Asia,https://programacion-tv.elpais.com/imagenes/canales/667.jpg
-TVE.Internacional.es,TVE Internacional,https://programacion-tv.elpais.com/imagenes/canales/468.jpg
-TVG.es,TVG,https://programacion-tv.elpais.com/imagenes/canales/36.jpg
-TVG2.es,TVG2,https://programacion-tv.elpais.com/imagenes/canales/779.jpg
-Taroteame.es,Taroteame,https://programacion-tv.elpais.com/imagenes/canales/826.jpg
-Tele.Elx.es,Tele Elx,https://programacion-tv.elpais.com/imagenes/canales/316.jpg
-Telecinco.es,Telecinco,https://programacion-tv.elpais.com/imagenes/canales/1.jpg
-Teledeporte.es,Teledeporte,https://programacion-tv.elpais.com/imagenes/canales/9.jpg
-Telemadrid.es,Telemadrid,https://programacion-tv.elpais.com/imagenes/canales/38.jpg
-TelevisiónCanaria.es,TelevisiónCanaria,https://programacion-tv.elpais.com/imagenes/canales/41.jpg
-Ten.es,Ten,https://programacion-tv.elpais.com/imagenes/canales/889.jpg
+TV3.es,TV3,https://cdn.sincroguia.tv/storage/channels/43-square.jpg
+TV3CAT.es,TV3CAT,https://cdn.sincroguia.tv/storage/channels/47-square.jpg
+TV5MONDE.es,TV5MONDE,https://cdn.sincroguia.tv/storage/channels/209-square.jpg
+TVG.Europa.es,TVG Europa,https://cdn.sincroguia.tv/storage/channels/36-square.jpg
+TVG.es,TVG,
+TVi.es,TVi,https://cdn.sincroguia.tv/storage/channels/1070-square.jpg
+Tele.Elx.es,Tele Elx,https://cdn.sincroguia.tv/storage/channels/316-square.jpg
+Telecinco.es,Telecinco,https://cdn.sincroguia.tv/storage/channels/1-square.jpg
+Teledeporte.es,Teledeporte,https://cdn.sincroguia.tv/storage/channels/9-square.jpg
+Telemadrid.Internacional.es,Telemadrid Internacional,https://cdn.sincroguia.tv/storage/channels/40-square.jpg
+Telemadrid.es,Telemadrid,https://cdn.sincroguia.tv/storage/channels/38-square.jpg
+TelevisiónCanaria.es,TelevisiónCanaria,https://cdn.sincroguia.tv/storage/channels/41-square.jpg
 The.Pet.Collective.es,The Pet Collective,
-VE.PLUS.TV.es,VE PLUS TV,https://programacion-tv.elpais.com/imagenes/canales/653.jpg
-Viral.TV.es,Viral TV,https://programacion-tv.elpais.com/imagenes/canales/870.jpg
-Vivir.con.gatos.es,Vivir con gatos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIVIR_CON_GATOS_176x122.png
-Vivir.con.perros.es,Vivir con perros,https://media.tvup.cloud/canales/color_lg_628cf372f712d6001b3a6484.png
-Warner.TV.es,Warner TV,https://programacion-tv.elpais.com/imagenes/canales/577.jpg
-XTRM.es,XTRM,https://programacion-tv.elpais.com/imagenes/canales/68.jpg
-ZTV.es,ZTV,https://programacion-tv.elpais.com/imagenes/canales/629.jpg
+Torolé.es,Torolé,https://cdn.sincroguia.tv/storage/channels/1131-square.jpg
+UCL.TV.es,UCL TV,https://cdn.sincroguia.tv/storage/channels/9448-square.jpg
+Ubeat.es,Ubeat,https://cdn.sincroguia.tv/storage/channels/1045-square.jpg
+VE.PLUS.TV.es,VE PLUS TV,https://cdn.sincroguia.tv/storage/channels/653-square.jpg
+Venevisión.Internacional.es,Venevisión Internacional,https://cdn.sincroguia.tv/storage/channels/414-square.jpg
+Veo7.es,Veo7,https://cdn.sincroguia.tv/storage/channels/9470-square.jpg
+Viajes.y.Sabores.es,Viajes y Sabores,https://cdn.sincroguia.tv/storage/channels/9507-square.jpg
+VinTV.es,VinTV,https://cdn.sincroguia.tv/storage/channels/9465/9465-square.jpg
+Vivid.RED.HD.es,Vivid RED HD,https://cdn.sincroguia.tv/storage/channels/1067-square.jpg
+VividTV.Europe.es,VividTV Europe,https://cdn.sincroguia.tv/storage/channels/966-square.jpg
+Vivir.con.gatos.es,Vivir con gatos,https://cdn.sincroguia.tv/storage/channels/1293-square.jpg
+Vivir.con.perros.es,Vivir con perros,https://cdn.sincroguia.tv/storage/channels/1292-square.jpg
+Warner.TV.es,Warner TV,https://cdn.sincroguia.tv/storage/channels/577-square.jpg
+XTRM.es,XTRM,https://cdn.sincroguia.tv/storage/channels/68-square.jpg
 ZUT.TV.es,ZUT TV,
 ZenLIFE.es,ZenLIFE,
-i24.News.es,i24 News,https://programacion-tv.elpais.com/imagenes/canales/792.jpg
+betevé.es,betevé,https://cdn.sincroguia.tv/storage/channels/242-square.jpg
 iConcerts.es,iConcerts,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_96ae9ef4c9e06174b3f2322f2.png
-laSexta.es,laSexta,https://programacion-tv.elpais.com/imagenes/canales/510.jpg
-teleSUR.es,teleSUR,https://programacion-tv.elpais.com/imagenes/canales/614.jpg
+laSexta.es,laSexta,https://cdn.sincroguia.tv/storage/channels/510-square.jpg
+teleSUR.es,teleSUR,https://cdn.sincroguia.tv/storage/channels/614-square.jpg
+tvG2.es,tvG2,https://cdn.sincroguia.tv/storage/channels/779-square.jpg
+¡Buenviaje!.es,¡Buenviaje!,https://cdn.sincroguia.tv/storage/channels/1331/1331-square.jpg
 ¡HOLA!.TV.es,¡HOLA! TV,
-À.Punt.es,À Punt,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/apunt.png
+À.Punt.Internet.es,À Punt Internet,https://cdn.sincroguia.tv/storage/channels/9427/9427-square.jpg
+À.Punt.es,À Punt,https://cdn.sincroguia.tv/storage/channels/997-square.jpg
