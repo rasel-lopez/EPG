@@ -131,7 +131,7 @@ ETB4.es,ETB4,
 EWTN.es,EWTN,https://cdn.sincroguia.tv/storage/channels/190-square.jpg
 El.Confidencial.es,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
 El.Garage.TV.es,El Garage TV,https://cdn.sincroguia.tv/storage/channels/786-square.jpg
-El.País.es,El País,
+El.País.es,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El.Toro.TV.es,El Toro TV,https://cdn.sincroguia.tv/storage/channels/516-square.jpg
 El.Trece.Internacional.es,El Trece Internacional,https://cdn.sincroguia.tv/storage/channels/818-square.jpg
 Elche.7.TV.es,Elche 7 TV,https://cdn.sincroguia.tv/storage/channels/9453-square.jpg
@@ -158,7 +158,7 @@ Global.Tendencias.TV.es,Global Tendencias TV,https://cdn.sincroguia.tv/storage/c
 Gulli.es,Gulli,https://cdn.sincroguia.tv/storage/channels/1152-square.jpg
 HBO.Max.Avances.es,HBO Max Avances,https://cdn.sincroguia.tv/storage/channels/9431-square.jpg
 Heritage+.es,Heritage+,
-Historia.y.Vida.es,Historia y Vida,
+Historia.y.Vida.es,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3.png
 Hits.Por.M+.es,Hits Por M+,https://cdn.sincroguia.tv/storage/channels/9450-square.jpg
 Hits.por.M+.es,Hits por M+,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6a/10009450.png
 Hollywood.es,Hollywood,https://cdn.sincroguia.tv/storage/channels/61-square.jpg
@@ -314,7 +314,7 @@ SELEKT.es,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new
 SOL.Música.es,SOL Música,
 SX3-33.es,SX3-33,https://cdn.sincroguia.tv/storage/channels/9403-square.jpg
 SX3.es,SX3,
-Sin.Filtros.es,Sin Filtros,
+Sin.Filtros.es,Sin Filtros,https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png
 SkyShowtime.1.es,SkyShowtime 1,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SKYSHOWTIME_1_176x122.png
 SkyShowtime.es,SkyShowtime,https://cdn.sincroguia.tv/storage/channels/9393-square.jpg
 Sol.Música.es,Sol Música,https://cdn.sincroguia.tv/storage/channels/171-square.jpg
