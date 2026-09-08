@@ -12,7 +12,7 @@ AM.es,AM,
 AMC+.Connect.es,AMC+ Connect,https://cdn.sincroguia.tv/storage/channels/9488/9488-square.jpg
 AMC.Anime.es,AMC Anime,https://cdn.sincroguia.tv/storage/channels/9487/9487-square.jpg
 AMC.Break.es,AMC Break,https://cdn.sincroguia.tv/storage/channels/492-square.jpg
-AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a478691/RNA_bg-app_v2.png
+AMC.es,AMC,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
 ATV.es,ATV,
 AXN.Movies.es,AXN Movies,https://cdn.sincroguia.tv/storage/channels/512-square.jpg
 AXN.es,AXN,https://cdn.sincroguia.tv/storage/channels/63-square.jpg
@@ -270,7 +270,7 @@ Musicales.por.M+.\n.es,Musicales por M+ \n,https://www.movistarplus.es/recorte/m
 MyPadel.TV.es,MyPadel TV,https://cdn.sincroguia.tv/storage/channels/9384-square.jpg
 MyZen.TV.es,MyZen TV,https://cdn.sincroguia.tv/storage/channels/812-square.jpg
 Mírame.TV.es,Mírame TV,https://cdn.sincroguia.tv/storage/channels/logo-mirame-tv-793-square.jpg
-NATV.1.es,NATV 1,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
+NATV.1.es,NATV 1,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
 NATV.2.es,NATV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
 NHK.World.Premium.es,NHK World Premium,https://cdn.sincroguia.tv/storage/channels/9388-square.jpg
 NOW.70's.es,NOW 70's,
@@ -307,7 +307,7 @@ Pro.TV.Internacional.es,Pro TV Internacional,https://cdn.sincroguia.tv/storage/c
 Punt.3.es,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Qello.Concerts.es,Qello Concerts,https://cdn.sincroguia.tv/storage/channels/9485-square.jpg
 Qwest.TV.es,Qwest TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/QWEST_TV_176x122.png
-RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a478691/RNA_bg-app_v2.png
+RNA.es,RNA,https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png
 Real.Madrid.TV.es,Real Madrid TV,https://cdn.sincroguia.tv/storage/channels/158-square.jpg
 RekTV.es,RekTV,https://cdn.sincroguia.tv/storage/channels/1203-square.jpg
 SELEKT.es,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122.png
